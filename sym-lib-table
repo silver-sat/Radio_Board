@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Silversat")(type "Legacy")(uri "C:/Users/tom/Documents/GitHub/kicad_library/SilverSat_symbols.lib")(options "")(descr "")(disabled))
+  (lib (name "add5043schematic")(type "KiCad")(uri "C:/arcaneideas/SilverSat/add5043/add5043schematic.kicad_sym")(options "")(descr "")(disabled))
+)

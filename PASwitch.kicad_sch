@@ -1,0 +1,31 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid b635b16e-60bb-4b3e-9fc3-47d34eef8381)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "RX" (shape input) (at 82.55 66.04 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 79ae0715-db8e-4f05-99cf-b165040c8600)
+  )
+  (hierarchical_label "5V" (shape input) (at 81.28 50.8 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 8c515898-8860-4f6f-8a53-ee66d5a7177e)
+  )
+  (hierarchical_label "RF" (shape input) (at 142.24 62.23 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a9f8e49a-a532-4a70-a926-5faa0f031d9a)
+  )
+  (hierarchical_label "PA" (shape input) (at 82.55 60.96 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid becc3e13-b590-4677-b378-33261f35196e)
+  )
+  (hierarchical_label "PWRAMP" (shape input) (at 82.55 78.74 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid c03f0a63-846b-4519-aecf-c7a43ba1c9a2)
+  )
+)
