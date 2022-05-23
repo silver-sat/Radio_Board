@@ -2621,7 +2621,7 @@
       (reference "C28") (unit 1) (value ".1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351e35/070ea647-494c-45f0-bc30-f149e20ac170"
-      (reference "C?") (unit 1) (value "C") (footprint "")
+      (reference "C?") (unit 1) (value "NC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/11f9ea04-0bad-4c65-a609-68eaadd1a145"
       (reference "C?") (unit 1) (value "100pF") (footprint "")
@@ -2630,7 +2630,7 @@
       (reference "C?") (unit 1) (value "nc") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/232c5b2c-f8e9-4f30-9ff8-65047432fd77"
-      (reference "C?") (unit 1) (value "C") (footprint "")
+      (reference "C?") (unit 1) (value "4.3pF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/25dc4829-70c8-4db4-9bff-44d835c59375"
       (reference "C?") (unit 1) (value "nc") (footprint "")
@@ -2642,7 +2642,7 @@
       (reference "C?") (unit 1) (value "4.7µF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/396861fd-8e78-44ea-a4d2-98fd174ebecc"
-      (reference "C?") (unit 1) (value "C") (footprint "")
+      (reference "C?") (unit 1) (value "NC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/5d35e471-4500-43ab-9d7f-e83f7e3383a3"
       (reference "C?") (unit 1) (value "nc") (footprint "")
@@ -2666,10 +2666,10 @@
       (reference "C?") (unit 1) (value "5.6pF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/d7aeda38-158a-4b77-979a-ff1a5c21dcb5"
-      (reference "C?") (unit 1) (value "C") (footprint "")
+      (reference "C?") (unit 1) (value "NC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/ddc34c6b-93ba-45a8-9f16-77ffb69482a3"
-      (reference "C?") (unit 1) (value "C") (footprint "")
+      (reference "C?") (unit 1) (value "6.8pF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351dba/ec70002c-1527-44d0-8454-24971f256ecb"
       (reference "C?") (unit 1) (value "4700 pF") (footprint "")
@@ -2681,7 +2681,7 @@
       (reference "C?") (unit 1) (value "4.3pF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/f99cabee-1ad7-4c92-bb29-9ea302c945d5"
-      (reference "C?") (unit 1) (value "C") (footprint "")
+      (reference "C?") (unit 1) (value "5.6pF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351dba/2427131d-cc2c-48af-b3f9-19c6c649f97d"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm")
@@ -2738,7 +2738,7 @@
       (reference "L?") (unit 1) (value "0 Ω nH") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/1a4fc0e5-ae86-482f-b03e-66450027b4e8"
-      (reference "L?") (unit 1) (value "L") (footprint "")
+      (reference "L?") (unit 1) (value "4.7nH") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/3373e7c4-8107-4ecf-8322-70fe3fda1a7e"
       (reference "L?") (unit 1) (value "100nH") (footprint "")
@@ -2759,10 +2759,10 @@
       (reference "L?") (unit 1) (value "43nH") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/e919e2ea-7b96-42bd-9fd7-49c6a61fabdb"
-      (reference "L?") (unit 1) (value "L") (footprint "")
+      (reference "L?") (unit 1) (value "100nH") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/ebe40f83-0522-4b6e-8197-0255d378cd1e"
-      (reference "L?") (unit 1) (value "L") (footprint "")
+      (reference "L?") (unit 1) (value "43nH") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351dba/7644e4ee-e516-437f-be32-c468b491026d"
       (reference "R2") (unit 1) (value "931") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -2939,7 +2939,7 @@
       (reference "U?") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/00000000-0000-0000-0000-000062351e35/1bb33481-4665-46d7-bd7a-d01b036c5aff"
-      (reference "X1") (unit 1) (value "VTCXO-14") (footprint "Oscillator:Oscillator_DIP-14")
+      (reference "X1") (unit 1) (value "VTCXO-14") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
     )
   )
 )
