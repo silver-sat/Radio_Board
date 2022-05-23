@@ -953,7 +953,7 @@
     (uuid 1bb33481-4665-46d7-bd7a-d01b036c5aff)
     (property "Reference" "X1" (id 0) (at 108.6402 61.3116 0))
     (property "Value" "VTCXO-14" (id 1) (at 108.6402 63.8485 0))
-    (property "Footprint" "Oscillator:Oscillator_DIP-14" (id 2) (at 109.22 73.66 0)
+    (property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm" (id 2) (at 109.22 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf" (id 3) (at 90.17 62.23 0)
@@ -2067,10 +2067,19 @@
     (path "/59885fbd-9866-47f4-888d-9cf27bcffe04"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/5fbb091c-5d56-40b0-944a-90c6146843ef"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/69167b8c-37ce-4923-b466-05f9cba83f95"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/6f1e88e2-371a-4bca-8052-a79978db84c3"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/74352c8d-c3a0-4297-bdc7-c8a653975427"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/7fe4362f-3b0a-4bb2-aad7-a7f713096fec"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/8f7115ec-bc58-430f-923e-a6e62007524a"
@@ -2085,7 +2094,16 @@
     (path "/a66112cd-2eb5-4744-80fb-e2d33c5f5277"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/bce43515-b5f8-4032-bbc5-e7c47ff3af80"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5d79d86-be6a-412d-ad8e-6496fd5bf58f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/d430a0a1-8dd4-491a-abc0-47345d04866b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d96a0f9d-8e39-4a9a-8c17-445fdd8ade9a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/de680cd2-d6ab-4800-82a2-20a4dd19e1e8"
@@ -2094,17 +2112,32 @@
     (path "/f590bfc5-00cd-4272-856b-c9475029d484"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/f84c091c-3ef0-410a-b175-4a3407a55d47"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/070ea647-494c-45f0-bc30-f149e20ac170"
+      (reference "C?") (unit 1) (value "NC") (footprint "")
+    )
     (path "/11f9ea04-0bad-4c65-a609-68eaadd1a145"
       (reference "C?") (unit 1) (value "100pF") (footprint "")
     )
+    (path "/232c5b2c-f8e9-4f30-9ff8-65047432fd77"
+      (reference "C?") (unit 1) (value "4.3pF") (footprint "")
+    )
     (path "/2caea73e-162e-4378-9669-4700cf0b0173"
       (reference "C?") (unit 1) (value "4.7µF") (footprint "")
+    )
+    (path "/396861fd-8e78-44ea-a4d2-98fd174ebecc"
+      (reference "C?") (unit 1) (value "NC") (footprint "")
     )
     (path "/518daebd-b89b-4c24-8d98-f647f9819f5f"
       (reference "C?") (unit 1) (value "10nF") (footprint "")
     )
     (path "/55c64e2d-f926-4292-89ea-8021e40886c2"
       (reference "C?") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/5d35e471-4500-43ab-9d7f-e83f7e3383a3"
+      (reference "C?") (unit 1) (value "nc") (footprint "")
     )
     (path "/958bc5c1-c883-462d-9fb9-34440befb033"
       (reference "C?") (unit 1) (value "100pF") (footprint "")
@@ -2115,8 +2148,20 @@
     (path "/b65372a1-3805-4776-af63-f88eb0d4a3f1"
       (reference "C?") (unit 1) (value "NC") (footprint "")
     )
+    (path "/b7b2bf9c-9382-486b-ad2e-594394bea2db"
+      (reference "C?") (unit 1) (value "10nF") (footprint "")
+    )
     (path "/bbc4aaab-9945-4d59-b136-d4ee1ac7531d"
       (reference "C?") (unit 1) (value "10nF") (footprint "")
+    )
+    (path "/d7aeda38-158a-4b77-979a-ff1a5c21dcb5"
+      (reference "C?") (unit 1) (value "NC") (footprint "")
+    )
+    (path "/ddc34c6b-93ba-45a8-9f16-77ffb69482a3"
+      (reference "C?") (unit 1) (value "6.8pF") (footprint "")
+    )
+    (path "/f99cabee-1ad7-4c92-bb29-9ea302c945d5"
+      (reference "C?") (unit 1) (value "5.6pF") (footprint "")
     )
     (path "/25dc4829-70c8-4db4-9bff-44d835c59375"
       (reference "CA?") (unit 1) (value "nc") (footprint "")
@@ -2145,8 +2190,17 @@
     (path "/f3273a61-151c-4090-859d-864e89a42195"
       (reference "CT?") (unit 1) (value "4.3pF") (footprint "")
     )
+    (path "/1a4fc0e5-ae86-482f-b03e-66450027b4e8"
+      (reference "L?") (unit 1) (value "4.7nH") (footprint "")
+    )
     (path "/a0d4d928-1ff2-48e8-9a4f-906f3f212e84"
       (reference "L?") (unit 1) (value "10nH") (footprint "")
+    )
+    (path "/e919e2ea-7b96-42bd-9fd7-49c6a61fabdb"
+      (reference "L?") (unit 1) (value "100nH") (footprint "")
+    )
+    (path "/ebe40f83-0522-4b6e-8197-0255d378cd1e"
+      (reference "L?") (unit 1) (value "43nH") (footprint "")
     )
     (path "/6209f4f4-6e73-45aa-8230-8bf134c2c703"
       (reference "LB?") (unit 1) (value "27nH") (footprint "")
