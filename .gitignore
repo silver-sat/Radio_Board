@@ -27,3 +27,5 @@ fp-info-cache
 
 # zip files
 *.zip
+\#auto_saved_files\#
+*.zip
