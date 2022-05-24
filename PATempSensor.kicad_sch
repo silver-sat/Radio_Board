@@ -2,7 +2,7 @@
 
   (uuid 2732632c-4768-42b6-bf7f-14643424019e)
 
-  (paper "A4")
+  (paper "A")
 
   (lib_symbols
     (symbol "Sensor_Temperature:TMP100" (in_bom yes) (on_board yes)
@@ -256,10 +256,10 @@
     (property "Reference" "U6" (id 0) (at 158.242 96.9553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "TMP100" (id 1) (at 158.242 99.4922 0)
+    (property "Value" "" (id 1) (at 158.242 99.4922 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (id 2) (at 149.86 106.68 0)
+    (property "Footprint" "" (id 2) (at 149.86 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/tmp100" (id 3) (at 148.59 97.79 0)
