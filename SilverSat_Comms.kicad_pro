@@ -467,6 +467,10 @@
     [
       "fa467511-c224-4bf9-85e3-6833b622396b",
       "serial_driver1"
+    ],
+    [
+      "bcebb362-6989-4d1e-a9f9-ea5f4a4b4fb9",
+      "ExternalWatchdog"
     ]
   ],
   "text_variables": {}
