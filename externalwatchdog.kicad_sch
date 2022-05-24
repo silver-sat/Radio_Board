@@ -289,7 +289,7 @@
     (property "Reference" "C?" (id 0) (at 142.0368 104.2416 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 142.0368 106.553 0)
+    (property "Value" "0.1u" (id 1) (at 142.0368 106.553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 139.7 105.41 0)
