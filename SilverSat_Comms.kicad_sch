@@ -2822,7 +2822,7 @@
       (reference "L10") (unit 1) (value "27nH") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351e35/6209f4f4-6e73-45aa-8230-8bf134c2c703"
-      (reference "L11") (unit 1) (value "27nH") (footprint "Inductor_SMD:L_0603_1608Metric")
+      (reference "L11") (unit 1) (value "27n") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351dba/aa46c7ca-b67a-43a7-84b1-6e16dc08ec38"
       (reference "R1") (unit 1) (value "1 M") (footprint "")

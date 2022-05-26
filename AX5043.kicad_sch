@@ -1309,7 +1309,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6209f4f4-6e73-45aa-8230-8bf134c2c703)
     (property "Reference" "L11" (id 0) (at 198.12 108.8222 90))
-    (property "Value" "27nH" (id 1) (at 198.12 111.3591 90))
+    (property "Value" "" (id 1) (at 198.12 111.3591 90))
     (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (id 2) (at 198.12 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
