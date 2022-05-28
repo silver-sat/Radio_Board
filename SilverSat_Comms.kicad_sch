@@ -2691,7 +2691,7 @@
       (reference "C14") (unit 1) (value "0.01u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351e35/b65372a1-3805-4776-af63-f88eb0d4a3f1"
-      (reference "C15") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C15") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351e35/2caea73e-162e-4378-9669-4700cf0b0173"
       (reference "C16") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_1210_3225Metric")

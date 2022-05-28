@@ -1973,7 +1973,7 @@
     (property "Reference" "C15" (id 0) (at 101.981 88.0653 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "DNI" (id 1) (at 101.981 90.6022 0)
+    (property "Value" "10nF" (id 1) (at 101.981 90.6022 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 100.0252 92.71 0)
