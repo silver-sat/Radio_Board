@@ -15,7 +15,9 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
      - RedHat Linux or derivatives: `sudo yum install git`
      - macOS (using [Homebrew](https://github.com/Homebrew/brew)): `brew install git`
    * For other programs, see their associated documentation for directions.
-3. Open the project folder and open SilverSat_Comms.kicad_pro. KiCad will show the project schematic and PCB files.
+3. Download and install SilverSat's KiCad Library (https://github.com/silver-sat/kicad_library). Installation instructions are given on the library's README.md.
+   - It is possible to skip this step, but some parts (such as the TCXO) may fail to load.¹
+5. Open the project folder and open SilverSat_Comms.kicad_pro. KiCad will show the project schematic and PCB files.
 
 # Files
 | File name                 | Description                                                                              |
@@ -40,6 +42,9 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 | serial_driver.kicad_sch   | Serial port driver schematic                                                             |
 | sym-lib-table             | Table of KiCad symbol libraries                                                          |
 
-# Known Issues
+# Notes
+¹ We have not yet tested whether this will work, but we presume based on past experience that the resulting error can be ignored.
+
+## Known Issues
 - KiCad 6, required by our project, is not supported on Windows 7 or earlier releases. We have not yet tested Windows 8.
 - It may be possible that Windows users of KiCad versions 6.0.0 to 6.0.4 may experience issues with sudden component changes using using the Edit Schematic Fields tool.
