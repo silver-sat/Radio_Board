@@ -2922,6 +2922,12 @@
     (path "/bcebb362-6989-4d1e-a9f9-ea5f4a4b4fb9/68564a71-7c17-4378-880a-6c3bd763fe71"
       (reference "#PWR078") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062351e35/87aae185-b482-41ed-8f0c-1c04a88cbe8a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000062351e35/944b9297-629d-4f9d-b0c2-c4f4dd7ed537"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000062351dba/ec70002c-1527-44d0-8454-24971f256ecb"
       (reference "C1") (unit 1) (value "4700p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
