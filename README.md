@@ -50,4 +50,4 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 
 ## Known Issues
 - KiCad 6, required by our project, is not supported on Windows 7 or earlier releases. We have not yet tested Windows 8.
-- It may be possible that Windows users of KiCad versions 6.0.0 to 6.0.4 may experience issues with sudden component changes using using the Edit Schematic Fields tool.
+- It is possible that Windows users of KiCad versions 6.0.0 to 6.0.4 may experience issues with sudden component changes using using the Edit Schematic Fields tool.
