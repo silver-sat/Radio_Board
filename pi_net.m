@@ -3,8 +3,16 @@
 % given loss and impedance.
 %
 % Written on 2022-06-06 by Isaac Schofer for SilverSat Ltd.
-% (https://silversat.org) using equations from Wikipedia
+% (https://silversat.org) in MATLAB R2022a using equations from Wikipedia
 % (https://en.wikipedia.org/wiki/Attenuator_(electronics)#Symmetric_pi_pad_resistor_calculation)
+%
+% To run, install GNU Octave per the website directions 
+% (https://wiki.octave.org/Category:Installation), open the file, and 
+% press F5 to run. If you see
+% a load path error, add the file to the path.
+%
+% You can also install MATLAB® (https://www.mathworks.com), but this 
+% requires a paid license.
 
 %% Define inputs
 loss = 1;               % Attenuator loss, expressed in positive dB
