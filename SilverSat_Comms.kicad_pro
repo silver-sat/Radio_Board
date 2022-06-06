@@ -471,6 +471,10 @@
     [
       "bcebb362-6989-4d1e-a9f9-ea5f4a4b4fb9",
       "ExternalWatchdog"
+    ],
+    [
+      "7a01facf-7162-41f8-8d07-7bf9efd8bda4",
+      "Attenuator"
     ]
   ],
   "text_variables": {}

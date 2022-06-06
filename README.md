@@ -39,11 +39,14 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 | eFuse3V3.kicad_sch        | 3.3 volt e-fuse schematic                                                                |
 | eFuse5V.kicad_sch         | 5 volt e-fuse schematic                                                                  |
 | externalwatchdog.kicad_sch| Watchdog timer schematic                                                                 |
+| pi_net.kicad_sch          | Unbalanced Pi Matching Network (KiCad schematic)                                         |
+| pi_net.m                  | Unbalanced Pi Matching Network (MATLAB®² script)                                         |
 | serial_driver.kicad_sch   | Serial port driver schematic                                                             |
 | sym-lib-table             | Table of KiCad symbol libraries                                                          |
 
 # Notes
 ¹ We have not yet tested whether this will work, but we presume based on past experience that the resulting error can be ignored.
+² MATLAB® is a registered trademark of The MathWorks, Inc.
 
 ## Known Issues
 - KiCad 6, required by our project, is not supported on Windows 7 or earlier releases. We have not yet tested Windows 8.
