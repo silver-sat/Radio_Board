@@ -659,7 +659,6 @@
     )
   )
 
-
   (junction (at 250.19 90.17) (diameter 0) (color 0 0 0 0)
     (uuid 324e0416-28de-4d96-8c55-5c0cb65364a0)
   )
@@ -1548,6 +1547,10 @@
     (at 87.63 46.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 453ff9ae-11c2-4ed4-9558-9554ae356fd8)
+  )
+  (text "Use for testing conenctions" (at 295.91 44.45 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6a37e75f-fd4e-4488-94a5-1ea2b7b3b462)
   )
   (text "place close to PA" (at 330.2 175.26 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
