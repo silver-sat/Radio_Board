@@ -3018,6 +3018,9 @@
     (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/3103ea7c-6dda-443e-bbce-34b1f8b990d1"
       (reference "#PWR081") (unit 1) (value "~") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062351e35/613bfd71-e3de-43a7-a1b2-236060ab7bdc"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000062351dba/ec70002c-1527-44d0-8454-24971f256ecb"
       (reference "C1") (unit 1) (value "4700p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -3386,12 +3389,6 @@
     )
     (path "/00000000-0000-0000-0000-000062351dba/50c11a73-3042-4db4-85c6-ec70d798e406"
       (reference "TP3") (unit 1) (value "AREF") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
-    )
-    (path "/00000000-0000-0000-0000-000062351e35/11bc81f9-dd2d-46fd-a648-0c46661de489"
-      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
-    )
-    (path "/00000000-0000-0000-0000-000062351e35/bb3730ef-0f08-45aa-bc3a-871b1bacb05c"
-      (reference "TP5") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/00000000-0000-0000-0000-000062351e35/6a3e56a1-6927-454b-8dab-90e5e4dfc76c"
       (reference "TP6") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
