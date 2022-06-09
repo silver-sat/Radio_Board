@@ -22694,9 +22694,6 @@
   (gr_text "DNI" (at 162.039 90.043 180) (layer "F.SilkS") (tstamp e5176fff-f4db-4c6f-956b-84ec52e64eb9)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Spread apart for 50Ω bal. line." (at 178.181 116.586) (layer "Dwgs.User") (tstamp 00a910d6-8227-480b-aefb-59aa4192ca2c)
-    (effects (font (size 1.016 1.016) (thickness 0.127)))
-  )
 
   (segment (start 50.66894 46.280825) (end 50.66894 45.130975) (width 0.254) (layer "F.Cu") (net 0) (tstamp 00082bbe-4445-4368-bfa0-9be04cbe68ef))
   (segment (start 55.49392 45.105825) (end 55.49392 44.755815) (width 0.15011) (layer "F.Cu") (net 0) (tstamp 000cfa03-d29f-4b3b-9dd4-1abec7537505))
