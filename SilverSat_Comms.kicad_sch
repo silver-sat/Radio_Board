@@ -4314,12 +4314,6 @@
     (path "/f68ea8b7-d28e-4bdb-b773-e9cfabb4ccea"
       (reference "R?") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/00000000-0000-0000-0000-000062351dba/e45fef06-2949-4dbd-b9d0-139e00790e9f"
-      (reference "TP1") (unit 1) (value "X1") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
-    )
-    (path "/00000000-0000-0000-0000-000062351dba/b86a0f37-dc16-491b-a090-e8877cf23573"
-      (reference "TP2") (unit 1) (value "X2") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
-    )
     (path "/00000000-0000-0000-0000-000062351dba/50c11a73-3042-4db4-85c6-ec70d798e406"
       (reference "TP3") (unit 1) (value "AREF") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
@@ -4361,6 +4355,9 @@
     )
     (path "/00000000-0000-0000-0000-000062351e35/64896dbe-eeee-45db-99d2-e5e5b49bcafa"
       (reference "X1") (unit 1) (value "TG2016SMN") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
+    )
+    (path "/00000000-0000-0000-0000-000062351dba/539a433d-2ce1-4cf2-965a-640158585d65"
+      (reference "Y?") (unit 1) (value "Crystal") (footprint "")
     )
   )
 )
