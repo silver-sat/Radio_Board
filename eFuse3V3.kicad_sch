@@ -1022,6 +1022,20 @@
     (uuid fa5e550a-15ca-428e-9a28-8858ec4b8cc1)
   )
 
+  (text "SEE LAYOUT GUIDELINES IN DATASHEET\n\n" (at 43.18 38.1 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid 43e28ae0-bc49-43c9-9165-940a5211e940)
+  )
+  (text "May want to change this out if 3V3 current is low enough\n"
+    (at 57.15 180.34 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 459f5682-e609-4a31-9f2b-10136ee9d76e)
+  )
+  (text "Design assumes:\nVcc(max) = 5.15V (from EPS datasheet)\nUndervoltage = 4V\nOvervoltage = 5.5V\nLoad capacitance = 10uF\n\"Load at startup\" = 120 ohms\nMax continuouse current = 0.6A (TBD once we drive amp)\nPgood = 4.5V\nCurrent limit (trip) = 0.72A"
+    (at 41.91 156.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid db1e9177-dce9-48e6-824b-c869832df231)
+  )
   (text "this version latches on overcurrent\nuse TPS25940-Q1 for Auto-retry"
     (at 153.67 119.38 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
