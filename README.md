@@ -45,7 +45,7 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 | sym-lib-table             | Table of KiCad symbol libraries                                                          |
 
 # Notes
-¹ We have not yet tested whether this will work, but we presume based on past experience that the resulting error can be ignored.
+¹ We have not yet tested whether this will work, but we presume based on past experience that the resulting error can be ignored. <br>
 ² MATLAB® is a registered trademark of The MathWorks, Inc.
 
 ## Known Issues
