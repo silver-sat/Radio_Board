@@ -2401,7 +2401,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 5d44f228-0924-4196-a253-7722f5d7805f)
-    (at 226.923 98.799)
+    (at 149.098 124.0028)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "AX5043.kicad_sch")
@@ -3422,7 +3422,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp 96acb24d-5008-44aa-9bb1-792200eef029)
-    (at 240.593 86.249)
+    (at 159.0294 124.079)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "AX5043.kicad_sch")
@@ -3730,7 +3730,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp a09df9d8-2361-4a6b-b485-953890155e3d)
-    (at 234.943 91.269)
+    (at 152.4 124.0282)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "AX5043.kicad_sch")
@@ -4446,7 +4446,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp bd8cf1ed-d66b-4108-aef9-6333cea90b4c)
-    (at 230.933 96.289)
+    (at 155.6512 124.079)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "AX5043.kicad_sch")
