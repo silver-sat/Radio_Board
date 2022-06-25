@@ -4106,7 +4106,7 @@
 
   (footprint "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal" (layer "F.Cu")
     (tedit 61ED8E5A) (tstamp 9c4214eb-4479-45f5-87b0-276ef7a058c8)
-    (at 245.7516 144.1812)
+    (at 190.1444 111.8616)
     (descr " Amphenol RF 901-143 https://www.amphenolrf.com/library/download/link/link_id/585682")
     (tags "SMA THT Female Jack Horizontal")
     (property "Description" "Right Angle Through-Hole SMA Connector")
