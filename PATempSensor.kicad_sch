@@ -262,7 +262,7 @@
     (property "Reference" "U6" (id 0) (at 158.242 96.9553 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 158.242 99.4922 0)
+    (property "Value" "TMP100" (id 1) (at 158.242 99.4922 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 149.86 106.68 0)
