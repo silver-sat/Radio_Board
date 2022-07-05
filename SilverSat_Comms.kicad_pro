@@ -475,6 +475,10 @@
     [
       "7a01facf-7162-41f8-8d07-7bf9efd8bda4",
       "Attenuator"
+    ],
+    [
+      "9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6",
+      "PAPowerSwitch"
     ]
   ],
   "text_variables": {}
