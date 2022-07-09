@@ -4069,6 +4069,12 @@
     (path "/00000000-0000-0000-0000-000062353116/c3b9ced3-4e7b-4701-b2bb-e4c51dc3ed65"
       (reference "#PWR057") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/ca9ba4b3-bd12-461d-a71b-adcb7eb00bb7"
+      (reference "#PWR058") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/6995e55a-a57f-42a5-93cd-7cba15ebc88f"
+      (reference "#PWR059") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000623530b9/bc4407d6-03c9-451c-8aae-0faec06e7929"
       (reference "#PWR060") (unit 1) (value "GND") (footprint "")
     )
@@ -4134,6 +4140,15 @@
     )
     (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/3103ea7c-6dda-443e-bbce-34b1f8b990d1"
       (reference "#PWR081") (unit 1) (value "~") (footprint "")
+    )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/103a4938-1511-4ca9-b089-e6fd3063d1db"
+      (reference "#PWR082") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/8a0181c5-c932-492f-a290-a958cbc03422"
+      (reference "#PWR083") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/430ce840-1c89-4599-9eab-8b1d62dacc1d"
+      (reference "#PWR084") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/613bfd71-e3de-43a7-a1b2-236060ab7bdc"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
@@ -4360,6 +4375,15 @@
     (path "/00000000-0000-0000-0000-000062351ee6/3b550aba-6010-474e-a7f4-9abe8aaa5bbf"
       (reference "C62") (unit 1) (value "1000pF") (footprint "")
     )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/c472581f-b0ca-4931-ab43-0ded885e7bc5"
+      (reference "C63") (unit 1) (value "10 uF") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+    )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/62b03d6b-95f6-4e1f-be23-aa0f06d32e51"
+      (reference "C64") (unit 1) (value "10 uF") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+    )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/d2131a60-83e2-4023-bdf4-d5a8be15cd6b"
+      (reference "C65") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/00000000-0000-0000-0000-000062351dba/c1da6e0d-14f3-4a99-b530-d0593621f260"
       (reference "D5") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm")
     )
@@ -4501,6 +4525,9 @@
     (path "/00000000-0000-0000-0000-000062351ee6/8056955a-ba75-4f21-88fa-80f09877e345"
       (reference "R20") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/6931ebc4-2bc7-4fac-abd9-6fb7bb9cb1d7"
+      (reference "R21") (unit 1) (value "12K") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/00000000-0000-0000-0000-0000623530b9/fe8a151b-b50b-4566-9477-71a288ed883e"
       (reference "R28") (unit 1) (value "110K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
@@ -4598,7 +4625,7 @@
       (reference "U10") (unit 1) (value "CAEL-CG2409M2") (footprint "")
     )
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/d57da5a4-b4d9-4aa2-a75c-e37db02acfc5"
-      (reference "U?") (unit 1) (value "TPS22965NTDSGRQ1") (footprint "")
+      (reference "U11") (unit 1) (value "TPS22965NTDSGRQ1") (footprint "kicad_library:DFN-8-1EP_2.1x2.1mm_P0.5mmx0.25mm_EP0.8x1.6mm")
     )
     (path "/00000000-0000-0000-0000-000062351e35/64896dbe-eeee-45db-99d2-e5e5b49bcafa"
       (reference "X1") (unit 1) (value "TG2016SMN") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
