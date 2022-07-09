@@ -8740,6 +8740,7 @@
       (xy 46.06887 48.880905)
       (xy 46.46892 48.880905)
     ) (layer "F.Cu") (width 0) (fill solid) (tstamp 7fa6b805-e62a-4718-9eb1-db4720a27591))
+  (gr_rect (start 148.844 114.8334) (end 141.9098 108.5088) (layer "F.Cu") (width 0.127) (fill none) (tstamp 7ff684fb-0f57-4268-90ca-eb7a837149a2))
   (gr_poly
     (pts
       (xy 48.6189 45.881035)
