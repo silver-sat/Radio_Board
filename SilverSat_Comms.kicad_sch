@@ -4597,6 +4597,9 @@
     (path "/00000000-0000-0000-0000-000062351ee6/a08c061a-7f5b-4909-b673-0d0a59a012a3"
       (reference "U10") (unit 1) (value "CAEL-CG2409M2") (footprint "")
     )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/d57da5a4-b4d9-4aa2-a75c-e37db02acfc5"
+      (reference "U?") (unit 1) (value "TPS22965NTDSGRQ1") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000062351e35/64896dbe-eeee-45db-99d2-e5e5b49bcafa"
       (reference "X1") (unit 1) (value "TG2016SMN") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
     )
