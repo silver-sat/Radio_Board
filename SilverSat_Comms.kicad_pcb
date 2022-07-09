@@ -1890,7 +1890,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 311f6b30-e6de-4271-9b32-d383a8e2adab)
-    (at 132.969 138.811)
+    (at 119.6848 144.3482)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Manufacturer" "Panasonic")
@@ -4908,7 +4908,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9ea1aad9-383d-48c4-b50d-6fc3d44e563d)
-    (at 152.4 118.986 -90)
+    (at 150.8506 117.869 -90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100V 100pF C0G 0603 1% AEC-Q200 (Mouser Product Page)")
@@ -5001,7 +5001,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp a09df9d8-2361-4a6b-b485-953890155e3d)
-    (at 145.288 98.806)
+    (at 145.3134 103.632)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "AX5043.kicad_sch")
@@ -5071,7 +5071,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a51c5e6c-cad0-4066-9d71-02e9b9184770)
-    (at 132.969 140.843)
+    (at 119.6848 146.3802)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Manufacturer" "AVX")
@@ -5559,7 +5559,7 @@
 
   (footprint "Connector_USB:USB_Micro-B_Molex-105017-0001" (layer "F.Cu")
     (tedit 5A1DC0BE) (tstamp b16564c4-a1d8-48e3-9a17-ef9d34b373b2)
-    (at 126.365 140.38)
+    (at 113.0808 145.9172)
     (descr "http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf")
     (tags "Micro-USB SMD Typ-B")
     (property "MPN" "105017-0001")
@@ -5740,7 +5740,7 @@
 
   (footprint "Fuse:Fuse_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp b996372e-39df-420f-99a7-cd6354759a7e)
-    (at 122.809 134.747 90)
+    (at 109.5248 140.2842 90)
     (descr "Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "fuse")
     (property "MPN" "PICOASMDC012S-2")
@@ -5937,7 +5937,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tedit 5A0F774F) (tstamp bd8cf1ed-d66b-4108-aef9-6333cea90b4c)
-    (at 142.621 98.806)
+    (at 143.8402 103.632)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "AX5043.kicad_sch")
@@ -6919,7 +6919,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23-6" (layer "F.Cu")
     (tedit 5F6F9B37) (tstamp dda57d04-561c-4d4a-a540-a3cb45d24eb5)
-    (at 125.984 134.366 90)
+    (at 112.6998 139.9032 90)
     (descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "SilverSat_Comms.kicad_sch")
