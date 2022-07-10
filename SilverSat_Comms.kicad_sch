@@ -4601,10 +4601,10 @@
       (reference "U4") (unit 1) (value "FPF2004") (footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5")
     )
     (path "/00000000-0000-0000-0000-0000623530b9/cb6f6a80-136d-4f79-90ab-f5d8d6d2e13d"
-      (reference "U5") (unit 1) (value "TVS1800DRV") (footprint "")
+      (reference "U5") (unit 1) (value "TVS1800DRV") (footprint "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm")
     )
     (path "/00000000-0000-0000-0000-0000623528ec/c6a385bd-2cfe-494d-8be2-f1e609af4c68"
-      (reference "U6") (unit 1) (value "TMP100") (footprint "")
+      (reference "U6") (unit 1) (value "TMP100") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/a9545931-3c74-4616-b03d-1ec2e4a75220/ec742c54-1d5c-49bc-963e-029f48dd5cb1"
       (reference "U7") (unit 1) (value "SN65HVD70D") (footprint "")

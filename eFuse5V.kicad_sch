@@ -1806,7 +1806,7 @@
     (property "Value" "TVS1800DRV" (id 1) (at 84.5566 86.233 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 86.36 93.98 0)
+    (property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm" (id 2) (at 86.36 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tvs1800.pdf" (id 3) (at 78.74 85.09 0)
