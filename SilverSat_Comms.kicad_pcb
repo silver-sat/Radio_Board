@@ -23743,6 +23743,8 @@
   (gr_circle (center 180.34 63.5) (end 180.79 63.5) (layer "Dwgs.User") (width 0.2) (fill none) (tstamp fd3499d5-6fd2-49a4-bdb0-109cee899fde))
   (gr_circle (center 127 63.5) (end 127.75 63.5) (layer "Dwgs.User") (width 0.2) (fill none) (tstamp feb26ecb-9193-46ea-a41b-d09305bf0a3e))
   (gr_circle (center 165.1 60.96) (end 165.85 60.96) (layer "Dwgs.User") (width 0.2) (fill none) (tstamp fef37e8b-0ff0-4da2-8a57-acaf19551d1a))
+  (gr_rect (start 117.05 138.2) (end 150.65 119.75) (layer "Cmts.User") (width 0.127) (fill none) (tstamp 95ffab14-a48a-451e-99a2-42532e90ff2c))
+  (gr_rect (start 151.5 124) (end 173.95 108.8) (layer "Cmts.User") (width 0.127) (fill none) (tstamp d99e0096-e170-4847-974c-05eef1eaebc3))
   (gr_line (start 31.369 61.830965) (end 61.36894 61.830965) (layer "Eco1.User") (width 0.1) (tstamp 36f55670-2380-4c6d-96a0-c3eaa0c9ea3b))
   (gr_line (start 61.36894 61.830965) (end 61.36894 27.831035) (layer "Eco1.User") (width 0.1) (tstamp 3e2d5855-f715-48fa-9ad4-e7ef027ab05b))
   (gr_line (start 61.36894 27.831035) (end 31.369 27.831035) (layer "Eco1.User") (width 0.1) (tstamp 73a3987d-0bbb-4d73-b2ce-e9ebe86b2fbc))
@@ -23780,7 +23782,7 @@
   (gr_text "DNI" (at 154.1018 103.4288 90) (layer "F.SilkS") (tstamp e5176fff-f4db-4c6f-956b-84ec52e64eb9)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Resize RF shield as necessary" (at 170.307 106.299) (layer "Cmts.User") (tstamp 830707ad-9666-4f03-8d7e-14c37e73df78)
+  (gr_text "Resize RF shield as necessary" (at 132.4 142.45) (layer "Cmts.User") (tstamp 830707ad-9666-4f03-8d7e-14c37e73df78)
     (effects (font (size 1.016 1.016) (thickness 0.127)))
   )
 
