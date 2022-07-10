@@ -739,7 +739,7 @@
     (uuid d57da5a4-b4d9-4aa2-a75c-e37db02acfc5)
     (property "Reference" "U11" (id 0) (at 142.24 86.36 0))
     (property "Value" "TPS22965NTDSGRQ1" (id 1) (at 151.13 102.87 0))
-    (property "Footprint" "kicad_library:DFN-8-1EP_2.1x2.1mm_P0.5mmx0.25mm_EP0.8x1.6mm" (id 2) (at 140.97 88.9 0)
+    (property "Footprint" "Silversat:DFN-8-1EP_2.1x2.1mm_P0.5mmx0.25mm_EP0.8x1.6mm" (id 2) (at 140.97 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "${KIPRJMOD}\\Datasheets\\tps22965-q1-1.pdf" (id 3) (at 162.56 106.68 0)

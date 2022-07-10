@@ -2993,7 +2993,7 @@
     (property "Value" "Conn_02x26_Odd_Even" (id 1) (at 64.77 163.1696 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "kicad_library:TheBus2x26" (id 2) (at 63.5 196.85 0)
+    (property "Footprint" "Silversat:TheBus2x26" (id 2) (at 63.5 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 63.5 196.85 0)
@@ -3088,7 +3088,7 @@
     (property "Value" "Conn_02x26_Odd_Even" (id 1) (at 64.77 89.5096 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "kicad_library:TheBus2x26" (id 2) (at 63.5 123.19 0)
+    (property "Footprint" "Silversat:TheBus2x26" (id 2) (at 63.5 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 63.5 123.19 0)
@@ -4388,10 +4388,10 @@
       (reference "F1") (unit 1) (value "300 mA") (footprint "Fuse:Fuse_0805_2012Metric")
     )
     (path "/3d9030cf-0987-4836-b01c-f1585d190913"
-      (reference "H1") (unit 1) (value "Conn_02x26_Odd_Even") (footprint "kicad_library:TheBus2x26")
+      (reference "H1") (unit 1) (value "Conn_02x26_Odd_Even") (footprint "Silversat:TheBus2x26")
     )
     (path "/1e58a36a-df1d-4179-8431-4acaee0b119a"
-      (reference "H2") (unit 1) (value "Conn_02x26_Odd_Even") (footprint "kicad_library:TheBus2x26")
+      (reference "H2") (unit 1) (value "Conn_02x26_Odd_Even") (footprint "Silversat:TheBus2x26")
     )
     (path "/13414e89-f49b-4ab1-8e35-a59f0943e3c3"
       (reference "J1") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal")
@@ -4607,10 +4607,10 @@
       (reference "U6") (unit 1) (value "TMP100") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/a9545931-3c74-4616-b03d-1ec2e4a75220/ec742c54-1d5c-49bc-963e-029f48dd5cb1"
-      (reference "U7") (unit 1) (value "SN65HVD70D") (footprint "")
+      (reference "U7") (unit 1) (value "SN65HVD70D") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/fa467511-c224-4bf9-85e3-6833b622396b/ec742c54-1d5c-49bc-963e-029f48dd5cb1"
-      (reference "U8") (unit 1) (value "SN65HVD70D") (footprint "")
+      (reference "U8") (unit 1) (value "SN65HVD70D") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
     )
     (path "/bcebb362-6989-4d1e-a9f9-ea5f4a4b4fb9/9eb0bc53-3fbf-4d5e-b5d1-bd3b2353b1f6"
       (reference "U9") (unit 1) (value "TPS3813-Q1_Watchdog") (footprint "Package_TO_SOT_SMD:SOT-23-6")
@@ -4619,7 +4619,7 @@
       (reference "U10") (unit 1) (value "CAEL-CG2409M2") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
     )
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/d57da5a4-b4d9-4aa2-a75c-e37db02acfc5"
-      (reference "U11") (unit 1) (value "TPS22965NTDSGRQ1") (footprint "kicad_library:DFN-8-1EP_2.1x2.1mm_P0.5mmx0.25mm_EP0.8x1.6mm")
+      (reference "U11") (unit 1) (value "TPS22965NTDSGRQ1") (footprint "Silversat:DFN-8-1EP_2.1x2.1mm_P0.5mmx0.25mm_EP0.8x1.6mm")
     )
     (path "/00000000-0000-0000-0000-0000623530b9/11b20fac-ae4f-4780-898b-e8abe960c388"
       (reference "U12") (unit 1) (value "TPS25940LQRVCRQ1") (footprint "Package_DFN_QFN:QFN-20-1EP_3x4mm_P0.5mm_EP1.65x2.65mm")
