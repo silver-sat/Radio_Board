@@ -3797,7 +3797,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 866efddd-d312-4016-8ea5-6a1bc84a91a5)
-    (at 109.523 89.662)
+    (at 115.824 81.788)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "MPN" "12065C105M4Z2A")
@@ -4422,7 +4422,7 @@
 
   (footprint "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal" (layer "F.Cu")
     (tedit 61ED8E5A) (tstamp 9c4214eb-4479-45f5-87b0-276ef7a058c8)
-    (at 190.627 112.8014)
+    (at 188.976 129.286)
     (descr " Amphenol RF 901-143 https://www.amphenolrf.com/library/download/link/link_id/585682")
     (tags "SMA THT Female Jack Horizontal")
     (property "Description" "Right Angle Through-Hole SMA Connector")
@@ -5274,7 +5274,7 @@
 
   (footprint "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm" (layer "F.Cu")
     (tedit 5DC5FB10) (tstamp b44cdf7d-48f7-4f9a-aeb4-d58cad6162de)
-    (at 142.9512 85.4202)
+    (at 211.836 63.881)
     (descr "WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "WSON NoLead")
     (property "Sheetfile" "eFuse5V.kicad_sch")
