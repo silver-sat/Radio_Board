@@ -17,7 +17,7 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
    * For other programs, see their associated documentation for directions.
 3. Download and install SilverSat's KiCad Library (https://github.com/silver-sat/kicad_library). Installation instructions are given on the library's README.md.
    - It is possible to skip this step, but some parts (such as the TCXO) may fail to load.¹
-5. Open the project folder and open SilverSat_Comms.kicad_pro. KiCad will show the project schematic and PCB files.
+5. Enter the project folder and open SilverSat_Comms.kicad_pro. KiCad will show options to edit the schematic or PCB.
 
 # Files
 | File name                 | Description                                                                              |
