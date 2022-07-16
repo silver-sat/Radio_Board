@@ -2011,7 +2011,7 @@
     (property "Reference" "R18" (id 0) (at 116.2812 68.58 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "110K" (id 1) (at 118.11 71.12 90))
+    (property "Value" "110k" (id 1) (at 118.11 71.12 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 113.03 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
