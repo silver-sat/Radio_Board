@@ -4211,12 +4211,6 @@
     (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/3103ea7c-6dda-443e-bbce-34b1f8b990d1"
       (reference "#PWR091") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/f418a1c1-02c1-479f-9322-190f1da62666"
-      (reference "#PWR092") (unit 1) (value "~") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/c1d7d9a0-1788-413d-b652-d9a5eae5d70f"
-      (reference "#PWR093") (unit 1) (value "~") (footprint "")
-    )
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/ca9ba4b3-bd12-461d-a71b-adcb7eb00bb7"
       (reference "#PWR094") (unit 1) (value "GND") (footprint "")
     )
@@ -4418,12 +4412,6 @@
     (path "/bcebb362-6989-4d1e-a9f9-ea5f4a4b4fb9/bbb7cf50-dca1-440b-8ab2-d713ff1a73ed"
       (reference "C62") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/86433c13-b015-489f-8860-48446630e7b4"
-      (reference "C63") (unit 1) (value "DNI") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/027328d6-232f-4f6e-970f-581166ed0c98"
-      (reference "C64") (unit 1) (value "DNI") (footprint "")
-    )
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/c472581f-b0ca-4931-ab43-0ded885e7bc5"
       (reference "C65") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
     )
@@ -4507,9 +4495,6 @@
     )
     (path "/00000000-0000-0000-0000-000062351ee6/5a5fd99f-443c-406f-aca4-4d809f0836ab"
       (reference "L16") (unit 1) (value "5.1n") (footprint "Inductor_SMD:L_0402_1005Metric")
-    )
-    (path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/0f0a329a-dfc2-4f68-ad88-f44d4d37a20c"
-      (reference "L17") (unit 1) (value "0") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351ee6/c5b7f784-0541-4044-961a-684967fbf19c"
       (reference "Q1") (unit 1) (value "HMC452ST89") (footprint "Package_TO_SOT_SMD:SOT-89-3")
