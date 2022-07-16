@@ -5,7 +5,6 @@
     "auto_track_width": true,
     "hidden_nets": [
       "GND",
-      "/3V3_LUP",
       "+5VP"
     ],
     "high_contrast_mode": 0,
