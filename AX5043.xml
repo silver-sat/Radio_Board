@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/isaac/KiCad/Radio_Board/AX5043.kicad_sch</source>
+    <date>Tue 24 May 2022 09:43:54 AM</date>
+    <tool>Eeschema 6.0.5-a6ca702e91~116~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AX5043.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbc4aaab-9945-4d59-b136-d4ee1ac7531d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>39pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ae74a5a-35b8-41d1-b0bc-b0c268d80282</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>nc</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d35e471-4500-43ab-9d7f-e83f7e3383a3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>518daebd-b89b-4c24-8d98-f647f9819f5f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7b2bf9c-9382-486b-ad2e-594394bea2db</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>NC</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b65372a1-3805-4776-af63-f88eb0d4a3f1</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7µF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2caea73e-162e-4378-9669-4700cf0b0173</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11f9ea04-0bad-4c65-a609-68eaadd1a145</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>958bc5c1-c883-462d-9fb9-34440befb033</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55c64e2d-f926-4292-89ea-8021e40886c2</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>NC</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>396861fd-8e78-44ea-a4d2-98fd174ebecc</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>4.3pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>232c5b2c-f8e9-4f30-9ff8-65047432fd77</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>5.6pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f99cabee-1ad7-4c92-bb29-9ea302c945d5</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>nc</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d3c5f71-5fb8-4d99-b909-7ad0ec52881e</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>nc</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b130f7-989d-41d7-858a-6eb8e0f67e4e</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>NC</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7aeda38-158a-4b77-979a-ff1a5c21dcb5</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>6.8pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddc34c6b-93ba-45a8-9f16-77ffb69482a3</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>4.3pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29572632-eea3-4ace-acec-55de14bcb582</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>4.3pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3273a61-151c-4090-859d-864e89a42195</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>NC</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>070ea647-494c-45f0-bc30-f149e20ac170</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>5.6pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1ff9266-c435-4b6e-831a-fb3c49471a13</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>5.6pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6276917b-1c04-401a-9462-adb252ad25f2</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>nc</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efca4ebd-7d36-47f4-a1b3-c718d4038241</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>nc</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0168c3a-1c4e-437e-b5e5-8a6079f531e9</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>nc</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25dc4829-70c8-4db4-9bff-44d835c59375</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0d4d928-1ff2-48e8-9a4f-906f3f212e84</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>100nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e919e2ea-7b96-42bd-9fd7-49c6a61fabdb</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>43nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebe40f83-0522-4b6e-8197-0255d378cd1e</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>100nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3373e7c4-8107-4ecf-8322-70fe3fda1a7e</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>100nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97e5ef50-784f-4456-bd8d-933c75ce2d08</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>4.7nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a4fc0e5-ae86-482f-b03e-66450027b4e8</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>43nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1c90c2a-1ed6-4ed8-9bd4-2931e22f753f</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>43nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88639100-df68-4c98-88b2-d7d54b2af4eb</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>27nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5a7b331-0ea6-4406-9acc-d4705a05fbe6</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>27nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6209f4f4-6e73-45aa-8230-8bf134c2c703</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>0 Ω nH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08db75e1-8d7d-452b-938c-e3c1a5d343a0</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R_US</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0189a16-6c83-4c32-bba6-721c4145378f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8235476-60af-4673-8d03-b630041e1638</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>NC</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32d29073-647d-4ccf-9ad2-bab625bf6190</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eacc2bee-cb01-4b83-804c-e28265f4711c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93ee7b39-d1ca-4cd5-b5fa-474993f19430</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11bc81f9-dd2d-46fd-a648-0c46661de489</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb3730ef-0f08-45aa-bc3a-871b1bacb05c</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0aabe4a-ed50-419d-9781-f8a9ebaa7d82</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a3e56a1-6927-454b-8dab-90e5e4dfc76c</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c250527-6a18-497b-b03d-ce5b11906343</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AX5043</value>
+      <footprint>Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/AX5043-D.PDF</datasheet>
+      <libsource lib="RF" part="AX5043" description="Advanced High Performance ASK and FSK Narrow-band Transceiver for 27 - 1050 MHz Range"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9783b85-23c1-4b42-b714-6d6d23077d37</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>VTCXO-14</value>
+      <footprint>Oscillator:Oscillator_DIP-14</footprint>
+      <datasheet>http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf</datasheet>
+      <libsource lib="Oscillator" part="VTCXO-14" description="Voltage-Controlled Crystal Clock Oscillator, DIP14-style metal package"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AX5043.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bb33481-4665-46d7-bd7a-d01b036c5aff</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Oscillator" part="VTCXO-14">
+      <description>Voltage-Controlled Crystal Clock Oscillator, DIP14-style metal package</description>
+      <docs>http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf</docs>
+      <footprints>
+        <fp>Oscillator*DIP*14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">VTCXO-14</field>
+        <field name="Footprint">Oscillator:Oscillator_DIP-14</field>
+        <field name="Datasheet">http://www.golledge.com/pdf/products/tcxos/gtxos14.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vcontrol" type="input"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="OUT" type="output"/>
+        <pin num="14" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF" part="AX5043">
+      <description>Advanced High Performance ASK and FSK Narrow-band Transceiver for 27 - 1050 MHz Range</description>
+      <docs>https://www.onsemi.com/pub/Collateral/AX5043-D.PDF</docs>
+      <footprints>
+        <fp>QFN?28*5x5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AX5043</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/AX5043-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD_ANA" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="ANTP" type="bidirectional"/>
+        <pin num="4" name="ANTN" type="bidirectional"/>
+        <pin num="5" name="ANTP1" type="output"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="VDD_ANA" type="power_out"/>
+        <pin num="8" name="FILT" type="input"/>
+        <pin num="9" name="L2" type="passive"/>
+        <pin num="10" name="L1" type="passive"/>
+        <pin num="11" name="DATA" type="bidirectional"/>
+        <pin num="12" name="DCLK" type="bidirectional"/>
+        <pin num="13" name="SYSCLK" type="bidirectional"/>
+        <pin num="14" name="SEL" type="input"/>
+        <pin num="15" name="CLK" type="input"/>
+        <pin num="16" name="MISO" type="output"/>
+        <pin num="17" name="MOSI" type="input"/>
+        <pin num="18" name="NC" type="no_connect"/>
+        <pin num="19" name="IRQ" type="output"/>
+        <pin num="20" name="PWRAMP" type="bidirectional"/>
+        <pin num="21" name="ANTSEL" type="bidirectional"/>
+        <pin num="22" name="NC" type="no_connect"/>
+        <pin num="23" name="VDD_IO" type="power_in"/>
+        <pin num="24" name="NC" type="no_connect"/>
+        <pin num="25" name="GPADC1" type="input"/>
+        <pin num="26" name="GPADC2" type="input"/>
+        <pin num="27" name="CLK16N" type="input"/>
+        <pin num="28" name="CLK16P" type="input"/>
+        <pin num="29" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Oscillator">
+      <uri>/usr/share/kicad/symbols//Oscillator.kicad_sym</uri>
+    </library>
+    <library logical="RF">
+      <uri>/usr/share/kicad/symbols//RF.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V3">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="VDD_IO" pintype="power_in"/>
+      <node ref="X1" pin="14" pinfunction="Vcc" pintype="power_in"/>
+    </net>
+    <net code="2" name="/CLK">
+      <node ref="U1" pin="15" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="3" name="/IRQ">
+      <node ref="U1" pin="19" pinfunction="IRQ" pintype="output"/>
+    </net>
+    <net code="4" name="/MISO">
+      <node ref="U1" pin="16" pinfunction="MISO" pintype="output"/>
+    </net>
+    <net code="5" name="/MOSI">
+      <node ref="U1" pin="17" pinfunction="MOSI" pintype="input"/>
+    </net>
+    <net code="6" name="/PA">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/PWRAMP">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/RX">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="L11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/SYSCLK">
+      <node ref="U1" pin="13" pinfunction="SYSCLK" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/~{SEL}">
+      <node ref="U1" pin="14" pinfunction="SEL" pintype="input"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="29" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="X1" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GPADC1" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="FILT" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="CLK16P" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="X1" pin="8" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="CLK16N" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDD_ANA" pintype="power_out"/>
+    </net>
+    <net code="18" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VDD_ANA" pintype="power_out"/>
+    </net>
+    <net code="19" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="ANTP1" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="ANTN" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="ANTP" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="L7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C19-Pad1)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="L8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="L10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="L10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(L1-Pad1)">
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="L2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(L1-Pad2)">
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="L1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="X1" pin="1" pinfunction="Vcontrol" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="ANTSEL" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="PWRAMP" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(TP2-Pad1)">
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="GPADC2" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(TP3-Pad1)">
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="DCLK" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(TP4-Pad1)">
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="DATA" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
