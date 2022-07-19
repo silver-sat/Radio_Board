@@ -535,7 +535,7 @@
     (uuid ec742c54-1d5c-49bc-963e-029f48dd5cb1)
     (property "Reference" "U9" (id 0) (at 127 92.329 0))
     (property "Value" "SN65HVD70D" (id 1) (at 127 94.6404 0))
-    (property "Footprint" "" (id 2) (at 124.46 92.71 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 124.46 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 124.46 92.71 0)
