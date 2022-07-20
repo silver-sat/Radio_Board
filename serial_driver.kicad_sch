@@ -538,7 +538,7 @@
     (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (id 2) (at 124.46 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 124.46 92.71 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn65hvd70.pdf" (id 3) (at 124.46 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 303df016-42fd-4572-9698-dc74fbac8b4b))
