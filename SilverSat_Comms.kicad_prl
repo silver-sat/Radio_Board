@@ -4,8 +4,7 @@
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [
-      "GND",
-      "+5VP"
+      "GND"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -65,7 +64,7 @@
       35,
       36
     ],
-    "visible_layers": "0021288_ffffffff",
+    "visible_layers": "0021388_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
