@@ -2154,7 +2154,7 @@
     (property "Footprint" "Crystal:Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm" (id 2) (at 153.67 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 153.67 101.6 0)
+    (property "Datasheet" "./datasheets/CM8V-T1A.pdf" (id 3) (at 153.67 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer_Part_Number" "CM8V-T1A-32.768KHZ-12.5PF-20PPM-TB-QA" (id 4) (at 153.67 101.6 0)
