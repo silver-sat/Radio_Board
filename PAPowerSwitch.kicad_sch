@@ -603,7 +603,7 @@
   (symbol (lib_id "Device:R_US") (at 128.27 101.6 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6931ebc4-2bc7-4fac-abd9-6fb7bb9cb1d7)
-    (property "Reference" "R41" (id 0) (at 123.19 101.6 0))
+    (property "Reference" "R40" (id 0) (at 123.19 101.6 0))
     (property "Value" "12k" (id 1) (at 123.19 104.14 0))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 127.254 101.346 90)
       (effects (font (size 1.27 1.27)) hide)
