@@ -197,7 +197,7 @@
           (stroke (width 0.2032) (type default) (color 0 0 0 0))
           (fill (type none))
         )
-        (arc (start 1.778 0) (mid 0.2221 1.8083) (end -1.778 0.508)
+        (arc (start 1.778 0) (mid 0.222 1.8083) (end -1.778 0.508)
           (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type none))
         )
@@ -5247,6 +5247,9 @@
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/430ce840-1c89-4599-9eab-8b1d62dacc1d"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062351ee6/b84a167c-f068-4b44-85c4-d37eab3538df"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/0436d115-6b05-4241-bb5d-b6e046cef5dc"
       (reference "C1") (unit 1) (value "4700p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -5407,16 +5410,16 @@
       (reference "C53") (unit 1) (value "39p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351ee6/eebda813-c0ff-4750-af93-f7ebc01bf0ac"
-      (reference "C54") (unit 1) (value "1000p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C54") (unit 1) (value "56p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351ee6/02dbd44a-a974-4874-a0ea-ace65efee201"
-      (reference "C55") (unit 1) (value "1000p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C55") (unit 1) (value "56p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351ee6/be9381d7-d484-4ee1-abd6-9b3c6d217da7"
-      (reference "C56") (unit 1) (value "1000p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C56") (unit 1) (value "220p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351ee6/3b550aba-6010-474e-a7f4-9abe8aaa5bbf"
-      (reference "C57") (unit 1) (value "1000p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C57") (unit 1) (value "220p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/a9545931-3c74-4616-b03d-1ec2e4a75220/eaef8ed3-7a65-451b-89fc-f985914ae831"
       (reference "C58") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5547,8 +5550,8 @@
     (path "/00000000-0000-0000-0000-000062351ee6/5a5fd99f-443c-406f-aca4-4d809f0836ab"
       (reference "L16") (unit 1) (value "5.1n") (footprint "Inductor_SMD:L_0402_1005Metric")
     )
-    (path "/00000000-0000-0000-0000-000062351ee6/c5b7f784-0541-4044-961a-684967fbf19c"
-      (reference "Q1") (unit 1) (value "HMC452ST89") (footprint "Package_TO_SOT_SMD:SOT-89-3")
+    (path "/00000000-0000-0000-0000-000062351ee6/d3e44f3c-4ea7-4046-87e4-ad4060de41af"
+      (reference "PA?") (unit 1) (value "HMC452ST89") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
     (path "/f68ea8b7-d28e-4bdb-b773-e9cfabb4ccea"
       (reference "R1") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric")
