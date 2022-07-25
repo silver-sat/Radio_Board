@@ -1196,7 +1196,7 @@
     (uuid d3e44f3c-4ea7-4046-87e4-ad4060de41af)
     (property "Reference" "PA1" (id 0) (at 123.19 84.5693 0))
     (property "Value" "HMC452ST89" (id 1) (at 123.19 87.1093 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-89-3" (id 2) (at 101.6 68.58 0)
+    (property "Footprint" "SilverSat_footprints:HMC452ST89_ThermalVias" (id 2) (at 101.6 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/hmc452st89.pdf" (id 3) (at 101.6 68.58 0)
