@@ -798,6 +798,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid aaf19f6f-c66c-4e29-b7e2-f243ffb17cb1)
   )
+  (text "We likely need to find another\nswitch. The datasheet sais that\nit should not be incinerated,\nsomething that would happen\nduring re-entry."
+    (at 200.66 80.01 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bc7adc1d-c806-4c7b-a5f0-ba80ac206d5a)
+  )
   (text "RF_OUT" (at 234.95 91.44 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c2934187-b3d2-4834-a976-bb346317f4c0)
