@@ -2405,7 +2405,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 4ae1c994-81e7-429a-98c6-2ce96e7381f8)
-    (at 126.365 108.204 90)
+    (at 124.084 108.062 90)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "SAMD21.kicad_sch")
@@ -2644,7 +2644,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 5540d18b-1969-47b8-8cbf-27ebd1baa55f)
-    (at 129.032 116.967 180)
+    (at 126.751 116.825 180)
     (descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x03 2.54mm double row")
     (property "Sheetfile" "SAMD21.kicad_sch")
