@@ -5557,7 +5557,7 @@
       (reference "L16") (unit 1) (value "5.1n") (footprint "Inductor_SMD:L_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351ee6/d3e44f3c-4ea7-4046-87e4-ad4060de41af"
-      (reference "PA1") (unit 1) (value "HMC452ST89") (footprint "SilverSat_footprints:HMC452ST89_ThermalVias")
+      (reference "PA1") (unit 1) (value "HMC452ST89") (footprint "SilverSat_footprints:HMC452ST89")
     )
     (path "/f68ea8b7-d28e-4bdb-b773-e9cfabb4ccea"
       (reference "R1") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric")
