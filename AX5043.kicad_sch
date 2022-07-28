@@ -1136,10 +1136,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5bab15f4-1130-41f5-be1b-03892a99fe00)
   )
-  (text "Deleted test points\nin favour of header" (at 129.54 128.27 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b65d43ea-dbdc-45e7-b885-239779cf1ad4)
-  )
   (text "Removed line from GPADC1 to FILT (was for cal of xtal)\nGrounded GPADC1 and GPADC2 per datasheet"
     (at 26.67 109.22 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
