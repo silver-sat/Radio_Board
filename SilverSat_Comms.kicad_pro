@@ -120,9 +120,11 @@
       },
       "track_widths": [
         0.0,
+        0.08228,
         0.127,
         0.2032,
         0.254,
+        0.412683,
         0.508
       ],
       "via_dimensions": [
@@ -474,7 +476,7 @@
     ],
     [
       "7a01facf-7162-41f8-8d07-7bf9efd8bda4",
-      "Attenuator & Matching Network"
+      "Attenuator"
     ],
     [
       "9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6",

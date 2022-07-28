@@ -3136,7 +3136,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 7a01facf-7162-41f8-8d07-7bf9efd8bda4)
-    (property "Sheet name" "Attenuator & Matching Network" (id 0) (at 231.14 108.5084 0)
+    (property "Sheet name" "Attenuator" (id 0) (at 231.14 108.5084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "pi_net.kicad_sch" (id 1) (at 231.14 116.1546 0)
