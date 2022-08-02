@@ -24,7 +24,7 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 | ------------------------- | ---------------------------------------------------------------------------------------- |
 | AX5043-backups            | _Description missing_                                                                    |
 | Datasheets                | Datasheets for used parts                                                                |
-| .gitignore                | Specifies what files to not add to the repository                                        |
+| .gitignore                | Tells GitHub not to add specified file types to the repository                           |
 | AX5043.kicad_prl          | _Description missing_                                                                    |
 | AX5043.kicad_sch          | Clone of OnSemi's ADD5043-433-GEVK evaluation board for the AX5043                       |
 | PASwitch.kicad_sch        | Power amplifier and Tx/Rx switch schematic                                               |
