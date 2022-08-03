@@ -5375,9 +5375,6 @@
     (path "/00000000-0000-0000-0000-000062351e35/070ea647-494c-45f0-bc30-f149e20ac170"
       (reference "C37") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/00000000-0000-0000-0000-000062351e35/4175f507-4078-4d48-9425-2991dbe2ae64"
-      (reference "C38") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
-    )
     (path "/00000000-0000-0000-0000-000062353116/ae087ef1-83a1-4c4e-866b-7c32bc1f55ab"
       (reference "C39") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
