@@ -1,6 +1,8 @@
 # Radio_Board
 SilverSat Limited – https://silversat.org
 
+![Image](SilverSat_Comms.png "Top view of radio board")
+
 This is the repository for the SilverSat Radio hardware design using KiCad 6.0.
 
 The design is based on an Adafruit Metro M0 Express and the AX5043 add-on reference design.
@@ -36,6 +38,7 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 | SilverSat_Comms.kicad_prl | _Description missing_                                                                    |
 | SilverSat_Comms.kicad_pro | The main KiCad project file, which can be used to access all other files                 |
 | SilverSat_Comms.kicad_sch | The project's top-level schematic.                                                       |
+| SilverSat_Comms.png       | A 3D computer-generated top view of the board                                            |
 | eFuse3V3.kicad_sch        | 3.3 volt e-fuse schematic                                                                |
 | eFuse5V.kicad_sch         | 5 volt e-fuse schematic                                                                  |
 | externalwatchdog.kicad_sch| Watchdog timer schematic                                                                 |
