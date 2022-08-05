@@ -1,4 +1,4 @@
-20396268275792310
+20397928017612522
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79372,6 +79372,13 @@ MS355-10_Masach_Shield
 0
 7
 1
+SilverSat_footprints
+SilverSat_Patch
+
+
+0
+0
+0
 SilverSat_footprints
 SilverSat_logo_15x7.75mm
 Small format SilverSat Ltd. logo. Logo created by Brent Almond for Design Daddy and ported to KiCad by Isaac Schofer for SilverSat Ltd.
