@@ -395,7 +395,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "../../misc/Radio_Board_model/SilverSat_Comms.wrl"
     },
     "page_layout_descr_file": ""
   },
