@@ -10362,7 +10362,7 @@
   (gr_arc (start 160.6 146.31) (mid 161.448528 146.661472) (end 161.8 147.51) (layer "Edge.Cuts") (width 0.2) (tstamp e502d1d5-04b0-4d4b-b5c3-8c52d09668e7))
   (gr_arc (start 161.8 55.07) (mid 162.22177 53.855192) (end 163.4 53.34) (layer "Edge.Cuts") (width 0.2) (tstamp eae14f5f-515c-4a6f-ad0e-e8ef233d14bf))
   (gr_line (start 191.01 75.13) (end 191.01 54.94) (layer "Edge.Cuts") (width 0.2) (tstamp f4eb0267-179f-46c9-b516-9bfb06bac1ba))
-  (gr_text "Website: https://silversat.org\nGitHub: https://github.com/silver-sat\nFacebook: https://www.facebook.com/SilverSatorg/\nInstagram: https://www.instagram.com/silversat/\nTwitter: https://twitter.com/silversatorg" (at 172.071977 82.965636) (layer "B.SilkS") (tstamp 27365ff2-75d6-421d-a498-fb8ac77b57a8)
+  (gr_text "Website: https://silversat.org\nGitHub: https://github.com/silver-sat\nFacebook: https://www.facebook.com/SilverSatorg/\nInstagram: https://www.instagram.com/silversat/\nTwitter: https://twitter.com/silversatorg\n\nDraft Assembly Instructions:\nAfter applying the solder paste, use a suction\ntool or 3-mil (76.2μm) point tweezers to place\nall passive components, starting with the\nsmallest ones, then working up in size. Next,\nuse a suction tool to place the integrated\ncircuits. Put the board in a reflow oven to\nsolder the surface mount components in place.\nFinally, solder the through-hole components\nand add the RF shields.\n\nTesting\nTBD" (at 172.085 93.98) (layer "B.SilkS") (tstamp 27365ff2-75d6-421d-a498-fb8ac77b57a8)
     (effects (font (size 1.016 1.016) (thickness 0.127)) (justify left mirror))
   )
   (gr_text "Radio Board" (at 172.325977 77.377636) (layer "B.SilkS") (tstamp 27da046e-f3de-4ece-86cd-d918930198a0)
