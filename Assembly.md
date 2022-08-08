@@ -24,6 +24,3 @@ soldering iron to break bridges, or
 re-soldering the connections. Solder problems
 from reflowing can be fixed by re-soldering
 them by hand.
-
-Testing
-TBD
