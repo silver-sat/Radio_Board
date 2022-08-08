@@ -1006,7 +1006,7 @@
     (property "Datasheet" "https://www.masach.com/media/catalog/product/file/MS355-10.pdf" (id 3) (at 68.58 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "MS355-10F" (id 4) (at 69.85 143.51 0))
+    (property "MPN" "MS355-10C" (id 4) (at 69.85 143.51 0))
     (property "Manufacturer" "Masach" (id 5) (at 80.01 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
