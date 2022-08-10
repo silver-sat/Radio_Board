@@ -56,3 +56,4 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 ## Known Issues
 - KiCad 6, required by our project, is not supported on Windows 7 or earlier releases. We have not yet tested Windows 8.
 - It is possible that Windows users of KiCad versions 6.0.0 to 6.0.4 may experience issues with sudden component changes using using the Edit Schematic Fields tool.
+- When adding, removing, or moving components in the schematic, importing the changes into the PCB may cause components to change places. Although they can be moved back in place, it is easier to preserve annotations (or, if you add a component, manually annnotate it).
