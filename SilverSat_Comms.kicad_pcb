@@ -1401,7 +1401,7 @@
     (property "Sheetname" "AX5043")
     (path "/00000000-0000-0000-0000-000062351e35/2caea73e-162e-4378-9669-4700cf0b0173")
     (attr smd)
-    (fp_text reference "C19" (at -2.032 -4.064 180) (layer "F.SilkS")
+    (fp_text reference "C19" (at 0 -2.54 270) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d213880b-eb3c-46b1-a9a8-78b973943c05)
     )
