@@ -5818,7 +5818,7 @@
       (reference "C35") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351e35/ddc34c6b-93ba-45a8-9f16-77ffb69482a3"
-      (reference "C36") (unit 1) (value "6.8p") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C36") (unit 1) (value "6.8p") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351e35/070ea647-494c-45f0-bc30-f149e20ac170"
       (reference "C37") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -6176,6 +6176,9 @@
     )
     (path "/12f57fa2-d197-4568-97e7-162c54cac19d"
       (reference "TP8") (unit 1) (value "USB_D-") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+    )
+    (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/c196bc92-13f1-43b5-b94a-d505efa29a92"
+      (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
     )
     (path "/b45aea30-a544-4489-a1c8-196dbd811fb1"
       (reference "U1") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")

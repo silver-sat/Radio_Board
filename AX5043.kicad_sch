@@ -2903,7 +2903,7 @@
     (uuid ddc34c6b-93ba-45a8-9f16-77ffb69482a3)
     (property "Reference" "C36" (id 0) (at 229.87 127.4912 90))
     (property "Value" "6.8p" (id 1) (at 229.87 130.0281 90))
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 233.68 132.3848 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 233.68 132.3848 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/40/AutoU_Series-777072.pdf" (id 3) (at 229.87 133.35 0)
