@@ -1,4 +1,4 @@
-20397929053789768
+20399589224127538
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79351,6 +79351,13 @@ DFN-8-1EP_2.1x2.1mm_P0.5mmx0.25mm_EP0.8x1.6mm
 0
 9
 8
+SilverSat_footprints
+GND_Symbol_1x1.5mm
+
+
+0
+0
+0
 SilverSat_footprints
 HMC452ST89
 400-2200 MHz 1 W RF Amplifier
