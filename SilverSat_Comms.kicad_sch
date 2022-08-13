@@ -3766,7 +3766,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 299.72 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 04bdfd5b-8d3e-4ff4-a0cc-747eea4a943e)
     (property "Reference" "H4" (id 0) (at 302.26 32.1853 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3996,7 +3996,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 384.81 100.33 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 22afbb2d-8f57-499f-b8f8-2dc9317f10c2)
     (property "Reference" "H8" (id 0) (at 384.81 93.98 0))
     (property "Value" "MountingHole_Pad" (id 1) (at 384.81 95.885 0))
@@ -4085,7 +4085,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 384.81 85.09 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 33994d54-414a-4154-91b7-afb727da7f21)
     (property "Reference" "H7" (id 0) (at 384.81 78.74 0))
     (property "Value" "MountingHole_Pad" (id 1) (at 384.81 80.645 0))
@@ -4319,7 +4319,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 271.78 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 55cb32fe-06e4-46bd-bcec-c318259e655f)
     (property "Reference" "H3" (id 0) (at 274.32 32.1853 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4542,7 +4542,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 330.2 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 8eaa6f9f-4bd7-4de8-8e0c-41dce5e435f7)
     (property "Reference" "H5" (id 0) (at 332.74 32.1853 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4647,7 +4647,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 363.22 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a88674c0-b82c-45cd-94ee-85e4234f407c)
     (property "Reference" "H6" (id 0) (at 365.76 32.1853 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4832,7 +4832,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 403.86 100.33 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid d9c919f1-4f72-4745-ab31-524bee8bba18)
     (property "Reference" "H10" (id 0) (at 403.86 93.98 0))
     (property "Value" "MountingHole_Pad" (id 1) (at 403.86 95.885 0))
@@ -4919,7 +4919,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 403.86 85.09 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid eba54a04-0edf-48c7-8344-225fab83c443)
     (property "Reference" "H9" (id 0) (at 403.86 78.74 0))
     (property "Value" "MountingHole_Pad" (id 1) (at 403.86 80.645 0))
@@ -5297,7 +5297,7 @@
     (property "Sheet file" "eFuse3V3.kicad_sch" (id 1) (at 205.74 99.6446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "3V3_Protected" output (at 233.68 90.17 0)
+    (pin "3V3_P" output (at 233.68 90.17 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid ed67e9e4-ccae-4a28-a4f4-bde4a9f2af56)
     )
@@ -5541,8 +5541,8 @@
     (path "/ef7bbdfc-bc2e-4043-b249-97243086afc7"
       (reference "#PWR025") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-000062351dba/3069bcef-cc92-49d7-acfd-1ed82e455812"
-      (reference "#PWR026") (unit 1) (value "+5VP") (footprint "")
+    (path "/00000000-0000-0000-0000-000062351e35/3bfee5da-3fb4-473e-9f68-43ab4222b594"
+      (reference "#PWR026") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351dba/c54fa2fd-ee2c-4fff-baed-ed060e62acf4"
       (reference "#PWR027") (unit 1) (value "GND") (footprint "")
@@ -5721,9 +5721,6 @@
     (path "/00000000-0000-0000-0000-000062351ee6/f67b8ac0-bdcb-4d99-b29f-3f283c20c6dd"
       (reference "#PWR086") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-000062351ee6/b84a167c-f068-4b44-85c4-d37eab3538df"
-      (reference "#PWR087") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-000062351ee6/cf087897-6e82-483c-8a8a-0f11526fbd70"
       (reference "#PWR088") (unit 1) (value "GND") (footprint "")
     )
@@ -5797,7 +5794,7 @@
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351e35/817d3d7a-4cba-4237-8eb4-2ecb1c76c5de"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
     (path "/0436d115-6b05-4241-bb5d-b6e046cef5dc"
       (reference "C1") (unit 1) (value "4700p") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5999,6 +5996,9 @@
     )
     (path "/00000000-0000-0000-0000-000062351e35/ea1bb8db-0b19-49d3-a9f1-ca0de9ac7869"
       (reference "C67") (unit 1) (value "100p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-000062351e35/67c1429c-5921-4869-bc28-66a09d9e0f07"
+      (reference "C68") (unit 1) (value "0.01u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351dba/c1da6e0d-14f3-4a99-b530-d0593621f260"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm")

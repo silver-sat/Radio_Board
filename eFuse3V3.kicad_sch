@@ -441,7 +441,7 @@
     (uuid a42d0061-f51c-4b5c-bbed-90d52febeeaf)
   )
 
-  (hierarchical_label "3V3_Protected" (shape input) (at 200.66 100.33 0)
+  (hierarchical_label "3V3_P" (shape input) (at 200.66 100.33 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1e3a3f26-7ccc-4685-b974-7c0a8836a2ac)
   )
