@@ -1955,7 +1955,7 @@
 
   (footprint "kicad_library:TheBus2x26" (layer "F.Cu")
     (tedit 61C8DD42) (tstamp 2d61fe4f-aae6-4f34-8b0e-888f2e6bcd01)
-    (at 119.38 58.43 90)
+    (at 119.38 58.430008 90)
     (descr "Through hole straight socket strip, 2x26, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 2x26 2.54mm double row")
     (property "MPN" "ESQ-126-37-G-D")
@@ -2108,6 +2108,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x26_P2.54mm_Vertical.step"
+      (offset (xyz 0 0 -1.905))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
     )
   )
 
@@ -4999,6 +5004,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Users/tom/Downloads/901-143-6RFX.stp"
+      (offset (xyz 0 0 6.35))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 -90))
+    )
   )
 
   (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (layer "F.Cu")
@@ -6762,7 +6772,7 @@
 
   (footprint "kicad_library:TheBus2x26" (layer "F.Cu")
     (tedit 61C8DD42) (tstamp d60acd9d-f176-451a-9951-3e0bced1302e)
-    (at 119.38 63.51 90)
+    (at 119.38 63.510008 90)
     (descr "Through hole straight socket strip, 2x26, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 2x26 2.54mm double row")
     (property "MPN" "ESQ-126-37-G-D")
@@ -6913,7 +6923,12 @@
     (model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x26_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 90 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x26_P2.54mm_Vertical.step"
+      (offset (xyz 0 0 -1.905))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 -180 0))
     )
   )
 
