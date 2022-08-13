@@ -437,7 +437,9 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": {
+      "+3V3": "rgb(0, 255, 255)"
+    }
   },
   "pcbnew": {
     "last_paths": {
