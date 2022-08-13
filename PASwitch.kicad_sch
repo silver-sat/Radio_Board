@@ -1234,7 +1234,7 @@
   )
 
   (symbol (lib_id "SilverSat_symbols:MS353-10C_Masach_Shield_Cover") (at 76.2 148.59 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid baf77d07-07eb-4a2b-89aa-eb36b072b203)
     (property "Reference" "S4" (id 0) (at 87.0712 147.7553 0)
       (effects (font (size 1.27 1.27)) (justify left))
