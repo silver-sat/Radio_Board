@@ -1553,6 +1553,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 17591ae4-fa38-47e2-a078-77b11da138b7)
   )
+  (text "Reassigned Arduino Pins\narduino       | new function\nD0 PA22      | SDA0\nD1 PA23      | SCL0\nD2 PA10      | TXD0\nD3 PA11      | RXD0\nD4 PB10      | MOSI\nD5 PB11      | SCK\nD6 PA20      | TXD2\nD7 PA21      | RXD2\nD8 PA16      | TXD1\nD9 PA17      | RXD1\nD10 PA19     | GPIO8\nD11 PA08/SDA | SDA1\nD12 PA09/SCL | SCL1\nD13 PB23     | WDTICK\nD14 PB22     |GPIO11"
+    (at 274.32 190.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4a7fe82e-895f-4e07-8831-cbdac1a39d50)
+  )
   (text "Supply Bypass" (at 334.01 39.37 180)
     (effects (font (size 2.54 2.54)) (justify right bottom))
     (uuid 83b27793-4f97-476c-8d0a-445db263ef83)
@@ -1572,6 +1577,11 @@
   (text "Analog Reference Voltage Bypass" (at 356.87 85.09 180)
     (effects (font (size 2.54 2.54)) (justify right bottom))
     (uuid d99a2a63-738f-41b3-ac18-2fe48e18aa4c)
+  )
+  (text "Translation table from GPIOx to Arduino Pin\nport      | pin  | arduino\nGPIO14_A | PA02 | A1\nGPIO0    | PA04 | A3\nGPIO1    | PA05 | A4\nGPIO2    | PA06 | A5\nGPIO3    | PA07 | A6\nGPIO4    | PA14 | Metro SD CS\nGPIO5    | PA15 | Metro SD MISO\nGPIO6    | PA13 | Metro SD SCK\nGPIO7    | PA18 | Metro USB ID\nGPIO8    | PA19 | D10 MISO\nGPIO9    | PB02 | A1\nGPIO10   | PB03 | A2\nGPIO11   | PB22 | D14 (Tx)\nGPIO12   | PB08 | Metro LED\nGPIO13   | PB09 | Metro VBAT"
+    (at 273.05 148.59 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid dcde7577-72a8-4766-9af4-0f0fd06a2213)
   )
 
   (label "3V3" (at 137.16 152.4 180)
