@@ -1,0 +1,4 @@
+(version 1)
+(rule zoneclearance
+	(constraint clearance (min 20mil))
+	(condition "A.Layer == 'In1.Cu' && B.Layer == 'In1.Cu' && A.Type == 'Zone' && B.Type == 'Zone'"))
