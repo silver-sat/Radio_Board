@@ -6626,6 +6626,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/packages3D/1050170001.stp"
+      (offset (xyz 0 -1.016 1.27))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder" (layer "F.Cu")
