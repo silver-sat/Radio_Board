@@ -682,7 +682,7 @@
     (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (id 2) (at 104.14 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 104.14 107.95 0)
+    (property "Datasheet" "${KIPRJMOD}/Datasheets/KyoceraAVX_AutoMLCC.pdf" (id 3) (at 104.14 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Part_Number" "12103C106K4Z2A" (id 4) (at 104.14 107.95 0)

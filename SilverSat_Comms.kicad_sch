@@ -4235,7 +4235,7 @@
     (property "Footprint" "Connector_USB:USB_Micro-B_Molex-105017-0001" (id 2) (at 73.66 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 73.66 40.64 0)
+    (property "Datasheet" "https://www.mouser.com/datasheet/2/276/1/1050170001_IO_CONNECTORS-230168.pdf" (id 3) (at 73.66 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Part_Number" "105017-0001" (id 5) (at 69.85 39.37 0)
@@ -4497,7 +4497,7 @@
     (property "Footprint" "Fuse:Fuse_0805_2012Metric" (id 2) (at 95.25 25.4 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 90.17 26.67 0)
+    (property "Datasheet" "${KIPRJMOD}/Datasheets/Littelfuse_PTC_Surface_Mount_Catalog_Datasheet_pdf-2999493.pdf" (id 3) (at 90.17 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Part_Number" "PICOASMDC012S-2" (id 5) (at 90.17 26.67 0)
@@ -5935,7 +5935,7 @@
       (reference "C44") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-0000623530b9/75c470dc-05bf-411b-b991-6080136d8ac3"
-      (reference "C45") (unit 1) (value "2400p") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C45") (unit 1) (value "2200p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000623530b9/7a71ceb1-ebfe-4500-8fed-2003a77af27c"
       (reference "C46") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
