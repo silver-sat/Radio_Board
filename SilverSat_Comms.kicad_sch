@@ -5806,10 +5806,10 @@
       (reference "C1") (unit 1) (value "4700p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351dba/73b23aa5-4250-4a0d-8101-d0daf4b6b6e7"
-      (reference "C2") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C2") (unit 1) (value "20p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351dba/f956b3cb-8062-42d9-a966-6123664cab4b"
-      (reference "C3") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C3") (unit 1) (value "20p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062351dba/0ecdeb2c-814c-4ecf-9439-dabc3ef3b22a"
       (reference "C4") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
