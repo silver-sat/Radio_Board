@@ -5580,6 +5580,9 @@
     (path "/00000000-0000-0000-0000-000062351dba/c5f60ad2-3c12-4476-8404-2c06cc32df66"
       (reference "#PWR038") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-000062351e35/652583ed-e9f7-40ff-95ce-0d2eda2593ab"
+      (reference "#PWR039") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-000062351dba/c1eec3a9-6a5c-40a7-9bef-c423e897fa47"
       (reference "#PWR040") (unit 1) (value "GND") (footprint "")
     )
@@ -5720,6 +5723,9 @@
     )
     (path "/00000000-0000-0000-0000-000062351ee6/f67b8ac0-bdcb-4d99-b29f-3f283c20c6dd"
       (reference "#PWR086") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-000062351e35/3d5a972b-0710-4864-81ab-e76ac4fa966c"
+      (reference "#PWR087") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062351ee6/cf087897-6e82-483c-8a8a-0f11526fbd70"
       (reference "#PWR088") (unit 1) (value "GND") (footprint "")
@@ -6000,6 +6006,12 @@
     (path "/00000000-0000-0000-0000-000062351e35/67c1429c-5921-4869-bc28-66a09d9e0f07"
       (reference "C68") (unit 1) (value "0.01u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/00000000-0000-0000-0000-000062351e35/1d2faf0e-ad16-49b3-91f4-fcd70560c944"
+      (reference "C69") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-000062351e35/898082ed-bdb4-41d3-89f3-db33ba54ea76"
+      (reference "C70") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
     (path "/00000000-0000-0000-0000-000062351dba/c1da6e0d-14f3-4a99-b530-d0593621f260"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm")
     )
@@ -6236,6 +6248,12 @@
     )
     (path "/69989374-ef77-43b1-b55f-a677b6add8fd"
       (reference "R43") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-000062351e35/95723b82-dfed-4018-9062-a1001d43361e"
+      (reference "R44") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/00000000-0000-0000-0000-000062351e35/6076567f-322c-473a-a0db-59f2f7c594f7"
+      (reference "R45") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062351e35/71bfb4f9-8499-464d-9619-3d7e34e36768"
       (reference "S1") (unit 1) (value "MS353-10C_Masach_Shield") (footprint "kicad_library:MS355-10_Masach_Shield")
