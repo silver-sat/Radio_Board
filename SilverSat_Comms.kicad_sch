@@ -5920,7 +5920,7 @@
       (reference "C39") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000062353116/bcb7815c-366f-4230-9432-da9fe0aeabfd"
-      (reference "C40") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+      (reference "C40") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-000062353116/b0eb82c0-e576-4907-bbc6-20ea80ec7eeb"
       (reference "C41") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5992,10 +5992,10 @@
       (reference "C63") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/c472581f-b0ca-4931-ab43-0ded885e7bc5"
-      (reference "C64") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+      (reference "C64") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/62b03d6b-95f6-4e1f-be23-aa0f06d32e51"
-      (reference "C65") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder")
+      (reference "C65") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/d2131a60-83e2-4023-bdf4-d5a8be15cd6b"
       (reference "C66") (unit 1) (value "DNI") (footprint "Capacitor_SMD:C_0603_1608Metric")

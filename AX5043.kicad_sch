@@ -2857,7 +2857,7 @@
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 80.9752 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 80.01 76.2 0)
+    (property "Datasheet" "https://spicat.kyocera-avx.com/product/mlcc/chartview/06033C103J4Z2A/DataSheet/X7R" (id 3) (at 80.01 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 86365ce4-1f78-4d23-9f4f-d288db7fffab))
