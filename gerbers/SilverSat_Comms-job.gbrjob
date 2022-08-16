@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.5)"
     },
-    "CreationDate": "2022-08-13T13:23:52-04:00"
+    "CreationDate": "2022-08-15T13:00:56-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -36,7 +36,6 @@
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
       "TrackToTrack": 0.127,
-      "MinLineWidth": 0.508,
       "TrackToRegion": 0.254,
       "RegionToRegion": 0.254
     }
@@ -68,18 +67,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SilverSat_Comms-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "SilverSat_Comms-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "SilverSat_Comms-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
