@@ -3761,6 +3761,7 @@
     (property "Manufacturer" "AVX" (id 4) (at 67.31 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Voltage" "100V" (id 5) (at 72.39 63.5 0))
     (pin "1" (uuid debf7ee0-52b5-45ba-bf0a-34638a7808d4))
     (pin "2" (uuid 9a2a4ee9-770b-4a3a-85da-8ee2eb73b3e3))
   )
