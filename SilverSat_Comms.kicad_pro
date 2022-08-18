@@ -481,7 +481,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SilverSat_Comms.step",
       "vrml": "../../misc/Radio_Board_model/SilverSat_Comms.wrl"
     },
     "page_layout_descr_file": ""
