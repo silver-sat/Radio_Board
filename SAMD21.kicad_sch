@@ -2136,7 +2136,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 175.26 113.03 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 50c11a73-3042-4db4-85c6-ec70d798e406)
     (property "Reference" "TP1" (id 0) (at 162.56 113.03 90))
     (property "Value" "AREF" (id 1) (at 168.275 113.03 90))
@@ -2651,7 +2651,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 156.21 156.21 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid cc3856d9-9ee4-4a79-8ed6-3e99cdcbdebd)
     (property "Reference" "TP10" (id 0) (at 151.13 156.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2867,7 +2867,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 156.21 160.02 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid ffc90048-4987-4476-81b5-83cb45c4837c)
     (property "Reference" "TP11" (id 0) (at 151.13 160.02 90)
       (effects (font (size 1.27 1.27)) (justify left))
