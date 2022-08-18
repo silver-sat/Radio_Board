@@ -3,7 +3,7 @@ SilverSat Limited – https://silversat.org
 ![SilverSat logo](https://silversat.org/wp-content/uploads/2019/08/silversat-logo-620x266.png)
 
 ![Image](SilverSat_Comms.png "Top view of radio board")
-_Reference image from 2022-08-10. Actual board may vary._
+_Reference image from 2022-08-15. Actual board may vary._
 
 This is the repository for the SilverSat Radio hardware design using KiCad 6.0.
 
