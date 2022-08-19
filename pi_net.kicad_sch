@@ -239,7 +239,7 @@
     (property "Height" "0.35" (id 5) (at 63.5 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "ERJ-H2G0R00X" (id 6) (at 63.5 53.34 0)
+    (property "MPN" "ERJ-2GE0R00X" (id 6) (at 63.5 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "Panasonic" (id 7) (at 63.5 53.34 0)

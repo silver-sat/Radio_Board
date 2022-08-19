@@ -669,7 +669,7 @@
     (property "Height" "0.45" (id 6) (at 128.27 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MPN" "" (id 7) (at 128.27 101.6 0)
+    (property "MPN" "ERJ-3RBD1002V" (id 7) (at 128.27 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer_Part_Number" "ERJ-PB3B1202V " (id 8) (at 128.27 101.6 0)
