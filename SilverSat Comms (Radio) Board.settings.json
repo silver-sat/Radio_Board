@@ -1,0 +1,45 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "SilverSat Comms (Radio) Board",
+        "revision": "1.0 Beta",
+        "company": "SilverSat Limited (https://silversat.org)",
+        "date": "2022-08-15"
+    },
+    "settings": {
+        "canvaslayout": "F",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "162,158,39,4,144,69,100,83,68,67,15,130,169,41,55,56,43,115,152,72,116,16,62,95,85,164,177,57,148,63,112,113,66,18,134,42,9,119,65,87,108,160,174,27,106,168,19,77,84,170,117,61,21,46,111,153,93,131,125,75,89,138,8,110,175,171,28,146,73,172,1,70,161,49,36,101,78,139,159,33,157,176,24,74,124,109,136,81,114,107,104,82,40,6,91,137,35,22,59,133,147,52,143,167,29,165,126,32,86,99,128,96,135,166,60,132,2,79,20,14,90,103,151,178,31,121,76,23,156,129,150,123,122,142,38,155,94,92,118,102,25,64,58,53,154,163",
+            "Placed": ""
+        },
+        "darkMode": false,
+        "highlightpin1": true,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": true,
+        "renderDnpOutline": true,
+        "renderTracks": false,
+        "renderZones": false,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "MPN",
+            "Manufacturer",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "markWhenChecked": ""
+    }
+}
