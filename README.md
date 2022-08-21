@@ -73,3 +73,6 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
 - When adding, removing, or moving components in the schematic, importing the changes into the PCB may cause components to change places. Although they can be moved back in place, it is easier to preserve annotations (or, if you add a component, manually annnotate it).
 - Due to the large size of this repository, it may download slowly depending on your connection speed. On a 5 Mb/s connection, this time is approximately 6 minutes.
    * To reduce disk space after downloading, delete the hidden .git folder. However, this will remove Git tracking from your local folder.
+
+# Warnings
+This board was designed for the [OshPark 4-Layer Board](https://docs.oshpark.com/services/four-layer/). Using another board type or service will require adjustments to the RF amplifier lines and may require other appropriate compensations.
