@@ -7,34 +7,12 @@
    viewBox="0 0 341.55589 363.1748"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="board_subsections.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="11.313709"
-     inkscape:cx="65.00963"
-     inkscape:cy="69.561629"
-     inkscape:current-layer="layer1"
-     inkscape:snap-nodes="false"
-     inkscape:snap-others="false" />
   <defs
      id="defs2" />
   <g
-     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="User_Drawings"
      transform="translate(-216.55289,-196.16486)">
     <g
        id="g22151">
@@ -2577,9 +2555,7 @@
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="F_Fab"
      style="display:inline"
      transform="translate(-216.55289,-196.16486)">
     <g
@@ -10933,9 +10909,7 @@
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="F_Silkscreen"
      style="display:inline"
      transform="translate(-216.55289,-196.16486)">
     <g
@@ -19323,9 +19297,7 @@
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="F_Paste"
      style="display:inline"
      transform="translate(-216.55289,-196.16486)">
     <g
@@ -22813,14 +22785,11 @@
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Section_Boxes">
+     id="layer1">
     <path
        style="display:inline;fill:none;stroke:#d04040;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 203.77314,225.79704 v -40.30718 l 12.86105,0 v -24.51013 l -13.09245,0 V 61.62624 H 3.9874 v 187.36519 h 142.78108 v -23.19439 z"
-       id="path42271"
-       sodipodi:nodetypes="ccccccccccc" />
+       id="path42271" />
     <rect
        style="fill:#000000;fill-opacity:0;stroke:#d04040;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect117807"
@@ -22845,15 +22814,13 @@
     <path
        style="fill:none;stroke:#d04040;stroke-width:2.00000011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 208.70038,61.674404 v 95.283776 h 12.93787 v 34.83165 h -15.30066 v 37.36898 H 301.3371 V 104.00341 H 272.11859 V 93.270006 H 225.82855 V 61.674404 Z"
-       id="path159229"
-       sodipodi:nodetypes="ccccccccccccc" />
+       id="path159229" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#d04040;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="77.77507"
        y="132.2149"
        id="text177410"><tspan
-         sodipodi:role="line"
          id="tspan177408"
          x="77.77507"
          y="132.2149"
@@ -22864,7 +22831,6 @@
        x="162.07063"
        y="296.05301"
        id="text231958"><tspan
-         sodipodi:role="line"
          id="tspan231956"
          x="162.07063"
          y="296.05301"
@@ -22875,7 +22841,6 @@
        x="95.195076"
        y="320.1304"
        id="text238324"><tspan
-         sodipodi:role="line"
          id="tspan238322"
          x="95.195076"
          y="320.1304"
@@ -22887,7 +22852,6 @@
        y="-286.94827"
        id="text247215"
        transform="rotate(90)"><tspan
-         sodipodi:role="line"
          x="162.04308"
          y="-286.94827"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
@@ -22898,7 +22862,6 @@
        x="235.70743"
        y="67.186577"
        id="text259232"><tspan
-         sodipodi:role="line"
          x="235.70743"
          y="67.186577"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
@@ -22910,7 +22873,6 @@
        y="34.777504"
        id="text177410-9"
        transform="rotate(-90)"><tspan
-         sodipodi:role="line"
          id="tspan177408-3"
          x="-154.17506"
          y="34.777504"
@@ -22918,8 +22880,7 @@
     <path
        style="fill:none;stroke:#d04040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 71.982947,149.10214 V 59.326715 H 37.994771 V 38.727601 H 21.196491 V 166.43504 h 40.818297 v -6.76035 h 9.968159 z"
-       id="path288680"
-       sodipodi:nodetypes="cccccccccc" />
+       id="path288680" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#d04040;stroke-width:1.00000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect304074"
@@ -22934,7 +22895,6 @@
        x="220.97931"
        y="117.56322"
        id="text304180"><tspan
-         sodipodi:role="line"
          x="220.97931"
          y="117.56322"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
@@ -22945,7 +22905,6 @@
        x="103.52364"
        y="115.02828"
        id="text346597"><tspan
-         sodipodi:role="line"
          id="tspan346595"
          x="103.52364"
          y="115.02828"
@@ -22961,12 +22920,10 @@
        y="247.75961"
        id="text358500"
        transform="rotate(-90)"><tspan
-         sodipodi:role="line"
          x="-228.36292"
          y="247.75961"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
          id="tspan362094">Amp. PWR</tspan><tspan
-         sodipodi:role="line"
          x="-228.36292"
          y="256.82629"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
@@ -22977,7 +22934,6 @@
        x="248.7056"
        y="72.726227"
        id="text395282"><tspan
-         sodipodi:role="line"
          x="248.7056"
          y="72.726227"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
@@ -22992,12 +22948,10 @@
        x="256.03073"
        y="314.67081"
        id="text395475"><tspan
-         sodipodi:role="line"
          x="256.03073"
          y="314.67081"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
          id="tspan395471">TX/RX</tspan><tspan
-         sodipodi:role="line"
          x="256.03073"
          y="328.00418"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri Light'"
