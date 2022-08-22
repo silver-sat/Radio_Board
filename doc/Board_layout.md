@@ -5,9 +5,7 @@ SilverSat Ltd. (https://silversat.org)
 
 During the design process, the board was layed out in sections to ease part placement, and it could be referenced to during testing. In this document, we present the board sections and state their meanings.
 
-**NOTE: Figure one does not display correctly in many viewers. To view, load the image using Inkscape (www.inkscape.org)**
-
-![Board sections diagram](https://raw.githubusercontent.com/silver-sat/Radio_Board/aa5a65a820912b1c82ff824015fb63e1a6e40d1d/doc/img/board_subsections.svg)
+![Board sections diagram](https://raw.githubusercontent.com/silver-sat/Radio_Board/aa5a65a820912b1c82ff824015fb63e1a6e40d1d/doc/img/board_subsections.svg.png)
 
 _Figure 1: Board layout_
 
