@@ -480,9 +480,9 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
-      "step": "SilverSat_Comms.step",
-      "vrml": "../../misc/Radio_Board_model/SilverSat_Comms.wrl"
+      "specctra_dsn": "board3D/SilverSat_Comms.dsn",
+      "step": "board3D/SilverSat_Comms.step",
+      "vrml": "board3D/SilverSat_Comms.wrl"
     },
     "page_layout_descr_file": ""
   },
