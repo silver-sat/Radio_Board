@@ -5,9 +5,9 @@ SilverSat Limited – https://silversat.org
 ![C G I Top View of Radio Board](SilverSat_Comms.png)
 Computer-generated front board view. _Reference image from 2022-08-20. Actual board may vary._
 
-This is the repository for the SilverSat Radio hardware design using KiCad 6.0 and made available in Gerber format.
+SilverSat's Radio Board is a custom-designed Adafruit Metro and Arduino® compatible controller with an integrated 1-watt digital radio transceiver. It serves as an Internet gateway that connects our Avionics and Payload boards to the Internet through a ground station. It can also control one of each an [Endurosat Antenna Board](https://www.endurosat.com/cubesat-store/cubesat-antennas/uhf-antenna/) and [1U solar panel](https://www.endurosat.com/cubesat-store/cubesat-solar-panels/1u-solar-panel-z/).
 
-The design is based on an Adafruit Metro M0 Express and the AX5043 add-on reference design.
+This repository contains the board design in KiCad 6.0, PDF, and various 3D formats. It also contains bills of materials, relevant component datasheets, and a thermal model in a Micosoft® Excel scpreadsheet.
 
 # Setup
 1. If you haven't already done so, download and install KiCad 6.0 from their website, https://www.kicad.org/download/. Depending on your system and Internet connection, than may take several hours.
@@ -15,9 +15,9 @@ The design is based on an Adafruit Metro M0 Express and the AX5043 add-on refere
    * On Windows and Mac, you can download and install GitHub Desktop (https://desktop.github.com/) to access and manage Git repositories. See https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop for details.
    * There are also many command line interfaces available. For example, GitHub offers `gh` which can be downloaded from their repository (https://github.com/cli/cli). Once you install the client, navigate to your perferred folder and run the command given by our repository's Code tab.
    * On Unix and Linux, many software repositories offer `git` as an alternative to `gh`. You can download and install `git` from your package manager.
-     - Debian-based Linux: `sudo apt install git`
-     - RedHat Linux or derivatives: `sudo yum install git`
-     - macOS (using [Homebrew](https://github.com/Homebrew/brew)): `brew install git`
+     - Debian-based Linux: 'sudo apt install git'
+     - RedHat Linux or derivatives: 'sudo yum install git'
+     - macOS (using [Homebrew](https://github.com/Homebrew/brew)): 'brew install git'
    * For other programs, see their associated documentation for directions.
 3. Download and install SilverSat's KiCad Library (https://github.com/silver-sat/kicad_library). Installation instructions are given on the library's README.md.
    - It is possible to skip this step, but some parts (such as the TCXO) may fail to load.¹
