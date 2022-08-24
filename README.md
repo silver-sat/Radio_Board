@@ -76,4 +76,4 @@ This repository contains the board design in KiCad 6.0, PDF, and various 3D form
    * To reduce disk space after downloading, delete the hidden .git folder. However, this will remove Git tracking from your local folder.
 
 # Warnings
-This board was designed for the [OshPark 4-Layer Board](https://docs.oshpark.com/services/four-layer/). Using another board type or service will require adjustments to the RF amplifier lines and may require other appropriate compensations.
+This board was designed for the [OshPark 4-Layer PCB Service](https://docs.oshpark.com/services/four-layer/). Using another board type or service will require adjustments to the RF amplifier lines and may require other appropriate compensations.
