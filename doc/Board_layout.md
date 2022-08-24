@@ -10,8 +10,7 @@ During the design process, the board was layed out in sections to ease part plac
 _Figure 1: Board layout_
 
 # SAMD21
-The SAMD21 is an approximately 48 MHz SAMD21-based processor inspired by the [Adafruit Metro M0 Express](https://www.adafruit.com/product/3505). It is compatible with the Metro and the Arduino Zero with modified serial pin definitions (TBD: Add). Most of the connections are hard-wired in the board, but a spare UART port is available on TP10 (TX) and TP11 (RX).
-
+The SAMD21 is an approximately 48 MHz SAMD21-based processor inspired by the [Adafruit Metro M0 Express](https://www.adafruit.com/product/3505). It is compatible with the Metro and the Arduino Zero with modified serial pin definitions (TBD: Add).
 ## Pinouts
 
 ## J1
@@ -24,10 +23,10 @@ Modified USB (for solar panel data as a backup for other boards)
 [Endurosat Antenna Board](https://www.endurosat.com/cubesat-store/cubesat-antennas/uhf-antenna/) data connector
 
 ### J5
-| MISO  | 3.3 V |
-| ----- |------ |
-| SCK   | MOSI  |
-| RESET | GND   |
+| AX5043 SPI MISO  | 3.3 V            |
+| ---------------- |----------------- |
+| AX5043 SPI SCK   | AX5043 SPI MOSI  |
+| RESET            | GND              |
 
 ### J6
 |  GND  | RESET |
@@ -41,8 +40,13 @@ Modified USB (for solar panel data as a backup for other boards)
 | NC          | NC           |
 | NC          | RESET        |
 
+### Test Points
+| ◉ TP3           | ◉ TP4           | ◉ TP10 | ◉ TP11 |
+| --------------- | --------------- | ------ | ------ |
+| AX5043 SPI DATA | AX5043 SPI DCLK | TxD2   | RxD2   |
+
 # Radio
-The radio is a clone of the OnSemi ADD5043-433-GEVK (./Datasheets/ADD5043-433-2-GEVK SCHEMATIC.PDF) AX5043 test board schematic, placed in a two-piece RF shield. See https://docs.google.com/spreadsheets/d/1p7g6bLbYMMpFN-4EpKS5jOUkZsmeDw4OGFsxyWDDAP4/edit?usp=sharing for chip selection.
+The radio is a clone of the OnSemi ADD5043-433-GEVK (./Datasheets/ADD5043-433-2-GEVK SCHEMATIC.PDF) AX5043 test board schematic, placed in a two-piece RF shield. See img/ for chip selection.
 
 ## Attenuator
 The receive line (closest to the SAMD21) has a pi-attenuator network near the exposed ground test point. The BOM includes parts for 0 dB attenuation, but other values can be calculated using KiCad's PCB Calculator. Common values are also given in the schematic.
