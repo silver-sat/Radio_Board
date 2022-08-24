@@ -69,7 +69,7 @@ This repository contains the board design in KiCad 6.0, PDF, and various 3D form
 - KiCad 6, required by our project, is not supported on Windows 7 or earlier releases. We have not yet tested Windows 8.
 - It is possible that Windows users of KiCad versions 6.0.0 to 6.0.4 may experience issues with sudden component changes using using the Edit Schematic Fields tool.
 - When adding, removing, or moving components in the schematic, importing the changes into the PCB may cause components to change places. Although they can be moved back in place, it is easier to preserve annotations (or, if you add a component, manually annnotate it).
-- Due to the large size of this repository, it may download slowly depending on your connection speed. On a 5 Mb/s connection, this time is approximately 6 minutes.
+- Due to the large size of this repository, it may download slowly depending on your connection speed. On a 5 Mb/s connection, this time is approximately 12 minutes and 43.2 seconds.
    * To reduce disk space after downloading, delete the hidden .git folder by showing hidden files in your browser, or (on Unix or Linux) typing `cd path/to/Radio_Board/ && rm -r .git/` in the terminal. However, this will remove Git tracking from your local folder.
 
 # Warnings
