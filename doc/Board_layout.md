@@ -21,7 +21,7 @@ USB Mini B (limited to 0.3 A)
 Modified USB (for solar panel data as a backup for other boards)
 
 ### J4
-![Endurosat Antenna Board](https://www.endurosat.com/cubesat-store/cubesat-communication-modules/uhf-transceiver-ii/) data connector
+[Endurosat Antenna Board](https://www.endurosat.com/cubesat-store/cubesat-antennas/uhf-antenna/) data connector
 
 ### J5
 | MISO  | 3.3 V |
