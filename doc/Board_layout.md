@@ -13,7 +13,10 @@ _Figure 1: Board layout_
 The SAMD21 is an approximately 48 MHz SAMD21-based processor inspired by the [Adafruit Metro M0 Express](https://www.adafruit.com/product/3505). It is compatible with the Metro and the Arduino Zero with modified serial pin definitions (TBD: Add).
 ## Pinouts
 
-## J1
+### H1 & H2
+See New Pin Assignments.pdf
+
+### J1
 USB Mini B (limited to 0.3 A)
 
 ### J3
