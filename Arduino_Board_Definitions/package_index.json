@@ -10,10 +10,10 @@
           "architecture": "samd",
           "version": "0.1",
           "category": "Contributed",
-          "url": "https://github.com/silver-sat/Radio_Board/Arduino_Board_Definitions/archive.zip",
+          "url": "https://github.com/silver-sat/Radio_Board/Arduino_Board_Definitions/Radio_Board_Arduino_Definitions.zip",
           "archiveFileName": "archive.zip",
-          "checksum": "SHA-256:",
-          "size": "3074191",
+          "checksum": "SHA-256:0429a2ecc862a04d77a870a26f4d86982e0cdefc8fe2cabcb9a7bda893f405af",
+          "size": "1454215 ",
           "boards": [
             { "name": "SilverSat Radio Board" },
           ],
