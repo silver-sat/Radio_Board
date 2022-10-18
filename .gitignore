@@ -29,3 +29,4 @@ fp-info-cache
 *.zip
 \#auto_saved_files\#
 *.zip
+~$use Tests.docx
