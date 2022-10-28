@@ -1586,6 +1586,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4a7fe82e-895f-4e07-8831-cbdac1a39d50)
   )
+  (text "Just in case:\nOnly Serial1 can have RTS/CTS defined\n(needs TX defined on pad 0)\nBut that's going to Avionics..."
+    (at 20.32 135.89 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4dbecd1c-96fb-4eae-ad00-4056c1fc7c8f)
+  )
   (text "SERCOM-ALT 2.3" (at 166.37 133.35 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5e7be932-a1b4-41e8-a50f-578be13351c0)
@@ -1679,6 +1684,11 @@
   (text "SIGNAL" (at 360.68 158.75 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid d696fd42-f87f-45de-aeaf-23c47848c4a0)
+  )
+  (text "In code:\nSerial0 is TXD1/RXD1\nSerial1 is TXD0/RXD0\nSerial2 is unused as a stand-in for the radio in testing\nMapping is a result of variant definition."
+    (at 24.13 177.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d720cfca-d470-4f4c-a058-ad406d6a8e05)
   )
   (text "14_A\n13\n12\n11\n10\n9\n8\n7\n6\n5\n4\n3\n2\n1\n0\n" (at 372.11 189.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
