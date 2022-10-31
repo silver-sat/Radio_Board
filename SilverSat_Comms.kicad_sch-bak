@@ -3218,11 +3218,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4ffd5a3a-f330-411e-bb42-a2e0e2b71b83)
   )
-  (text "See FP2004 datasheet (and test results): OC3V3 is active LOW\nProbably don't care because result is not latched.\n\nOC5V is also active low"
-    (at 109.22 201.93 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 5033a91e-d4b8-4a05-9275-71d399e2c988)
-  )
   (text "place close to PA" (at 330.2 175.26 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7b8b5819-d396-4b34-9690-58cf77e4bed4)
