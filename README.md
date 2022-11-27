@@ -5,9 +5,6 @@ SilverSat Limited – https://silversat.org
 ![Unassembled front radio board photograph](RB01_front.png)
 Radio board front view
 
-![C G I Top View of Radio Board](SilverSat_Comms.png)
-CGI top board view. _Reference image from 2022-08-24. Actual board may vary._
-
 SilverSat's Radio Board is a custom-designed Adafruit Metro and Arduino® compatible controller with an integrated 1-watt digital radio transceiver. It serves as an Internet gateway that connects our Avionics and Payload boards to the Internet through a ground station. It can also control one of each an [Endurosat Antenna Board](https://www.endurosat.com/cubesat-store/cubesat-antennas/uhf-antenna/) and [1U solar panel](https://www.endurosat.com/cubesat-store/cubesat-solar-panels/1u-solar-panel-z/).
 
 This repository contains the board design in KiCad 6.0, PDF, and various 3D formats. It also contains bills of materials, relevant component datasheets, and a thermal model in a Microsoft® Excel scpreadsheet.
