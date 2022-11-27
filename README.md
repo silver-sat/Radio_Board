@@ -2,7 +2,7 @@
 SilverSat Limited – https://silversat.org
 ![SilverSat logo](https://silversat.org/wp-content/uploads/2019/08/silversat-logo-620x266.png)
 
-![Unassembled front radio board photograph](Radio_Board_f_unassembled.png)
+![Unassembled front radio board photograph](RB01_front.png)
 The unassembled radio board (front view)
 
 ![C G I Top View of Radio Board](SilverSat_Comms.png)
