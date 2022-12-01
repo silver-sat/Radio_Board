@@ -2,11 +2,8 @@
 SilverSat Limited – https://silversat.org
 ![SilverSat logo](https://silversat.org/wp-content/uploads/2019/08/silversat-logo-620x266.png)
 
-![Unassembled front radio board photograph](Radio_Board_f_unassembled.png)
-The unassembled radio board (front view)
-
-![C G I Top View of Radio Board](SilverSat_Comms.png)
-CGI top board view. _Reference image from 2022-08-24. Actual board may vary._
+![Unassembled front radio board photograph](RB01_front.png)
+Radio board front view
 
 SilverSat's Radio Board is a custom-designed Adafruit Metro and Arduino® compatible controller with an integrated 1-watt digital radio transceiver. It serves as an Internet gateway that connects our Avionics and Payload boards to the Internet through a ground station. It can also control one of each an [Endurosat Antenna Board](https://www.endurosat.com/cubesat-store/cubesat-antennas/uhf-antenna/) and [1U solar panel](https://www.endurosat.com/cubesat-store/cubesat-solar-panels/1u-solar-panel-z/).
 
