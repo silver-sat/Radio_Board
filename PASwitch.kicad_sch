@@ -821,6 +821,16 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 06444409-ee1f-4f17-a070-be1be3f2b128)
   )
+  (text "NOTE:  Since we are driving the PA from the single-ended\noutput of the AX5043, the maximum output power is +13dBm,\nnot +16dBm.  \nExpected gain of the HMC452 is 21dB (not including matching\nnetwork losses), so we still should be able to drive the amp\ninto saturation."
+    (at 29.21 124.46 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 469d57e0-29c8-4237-a446-295fc3f86248)
+  )
+  (text "NOTE:  PA does not like to have an input signal at turn on until\nit settles at its DC bias point. Damage is highly likely.\nYOU HAVE BEEN WARNED!!"
+    (at 36.83 38.1 0)
+    (effects (font (size 2 2)) (justify left bottom))
+    (uuid 609304d5-76ee-4d34-af32-9a07f6b80b8d)
+  )
   (text "TL4" (at 134.62 87.63 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 74529309-d9b0-4db0-8ca6-e3c57040d742)
