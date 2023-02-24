@@ -5,11 +5,9 @@ SilverSat Limited – https://silversat.org
 ![Unassembled front radio board photograph](RB01_front.png)
 Radio board front view
 
-SilverSat's Radio Board is a custom-designed Adafruit Metro and Arduino® compatible controller with an integrated 1-watt digital radio transceiver. It serves as an Internet gateway that connects our Avionics and Payload boards to the Internet through a ground station. It can also control one of each an [Endurosat Antenna Board](https://www.endurosat.com/cubesat-store/cubesat-antennas/uhf-antenna/) and [1U solar panel](https://www.endurosat.com/cubesat-store/cubesat-solar-panels/1u-solar-panel-z/).
+SilverSat's Radio Board is our custom-designed Arduino®-compatible prototype satellite data transceiver and internet gateway for 430-450 MHz.
 
-This repository contains the board design in KiCad 6.0, PDF, and various 3D formats. It also contains bills of materials, relevant component datasheets, and a thermal model in a Microsoft® Excel scpreadsheet.
-
-
+This repository contains the board design in KiCad 6.0 with relevant design files and images.
 
 # Setup
 1. If you haven't already done so, download and install KiCad 6.0 from their website, https://www.kicad.org/download/. Depending on your system and Internet connection, than may take several hours.
@@ -26,6 +24,7 @@ This repository contains the board design in KiCad 6.0, PDF, and various 3D form
 5. Enter the project folder and open SilverSat_Comms.kicad_pro. KiCad will show options to edit the schematic or PCB.
 
 # Files
+This list may not reflect recent changes; some items could be missing.
 | File name                 | Description                                                                              |
 | ------------------------- | ---------------------------------------------------------------------------------------- |
 | Arduino_Board_Definitions/| Arduino-compatible board definitions for upcoming code				       |
