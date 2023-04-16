@@ -23,6 +23,9 @@ This repository contains the board design in KiCad 6.0 with relevant design file
    - It is possible to skip this step, but some parts (such as the TCXO) may fail to load.¹
 5. Enter the project folder and open SilverSat_Comms.kicad_pro. KiCad will show options to edit the schematic or PCB.
 
+# Software
+See SilverSat's Radio Software repository (https://github.com/silver-sat/Radio_Software)
+
 # Files
 This list may not reflect recent changes; some items could be missing.
 | File name                 | Description                                                                              |
