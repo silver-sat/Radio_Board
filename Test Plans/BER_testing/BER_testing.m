@@ -6,7 +6,7 @@
 
 % Test parameters:
 TX_power = 2.6; % dBm, measured by a nanoVNA
-attenuation_total = (20 + 10.0 + 0.7 + 60) + [4.55 6.1 7.56 9.1 10.4 ...
+attenuation_total = (20 + 10.0 + 20.7 + 60) + [4.55 6.1 7.56 9.1 10.4 ...
     11.94 13.38 14.96 15.00 16.5 18.0 19.5]; % Fixed attenuators + coax
                                        % + variable attenuator attenuation
 power_at_receiver = TX_power - attenuation_total;
