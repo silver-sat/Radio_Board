@@ -47,6 +47,7 @@ xlabel("Receiver input power (dBm)")
 ylabel("Bit error rate")
 title("Bit error rate versus receiver input power")
 grid on
+text(-127,10^-4,{'Error bars indicate minimum', 'and maximum BERs per test'})
 
 %% References
 % AndyL, Ghaul, Marc (2010, August 23). Using errorbar() with semilogy() in
