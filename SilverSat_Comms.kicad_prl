@@ -67,6 +67,12 @@
     "visible_layers": "ffe12a8_fffffff9",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "SilverSat_Comms.kicad_prl",
     "version": 3
