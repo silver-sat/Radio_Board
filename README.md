@@ -5,8 +5,8 @@ SilverSat Limited – https://silversat.org
 ![Unassembled front radio board photograph](RB01_front.png)
 Radio board front view
 
-**SilverSat is currently transistioning the repository to KiCad 7.0. These
-updated files are incompatible with KiCad 6.0.**
+**SilverSat is currently transistioning the repository to KiCad 8.0. These
+updated files are incompatible with older versions.**
 
 SilverSat's Radio Board is our custom-designed Arduino®-compatible prototype
 satellite data transceiver and internet gateway for 430-450 MHz.
