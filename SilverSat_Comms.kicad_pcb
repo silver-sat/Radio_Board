@@ -3689,7 +3689,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C26"
-			(at 1.061029 -1.087821 -90)
+			(at 1.022029 -1.087821 -90)
 			(layer "F.SilkS")
 			(uuid "a36cb03f-511a-4a5d-8edb-39daaa66b624")
 			(effects
@@ -6097,7 +6097,7 @@
 				)
 			)
 		)
-		(property "Value" "CAEL-CG2409M2"
+		(property "Value" "CG2409M2-C4"
 			(at 0.000001 2.000003 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6162,6 +6162,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "99cf1721-041b-4462-8ae4-409c05c3811f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/CEL/CG2409M2-C4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "603d1310-eeec-4c11-bb50-2727d75e76d7")
 			(effects
 				(font
 					(size 1 1)
@@ -14185,7 +14198,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS3813-Q1_Watchdog"
+		(property "Value" "TPS3813K33QDBVRQ1"
 			(at 0 2.399995 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14233,7 +14246,7 @@
 				)
 			)
 		)
-		(property "MPN" "TPS3813K33-Q1"
+		(property "MPN" "TPS3813K33QDBVRQ1"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14250,6 +14263,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "41b327b5-f272-47fa-a6d4-6b9c6679e1ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Texas-Instruments/TPS3813K33QDBVRQ1"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "28a05dc0-92de-40c6-9926-8ed0f7efafd1")
 			(effects
 				(font
 					(size 1 1)
@@ -29134,7 +29160,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C20"
-			(at 0 -1.16 0)
+			(at 2.291821 0.128029 0)
 			(layer "F.SilkS")
 			(uuid "e2c4c186-a4c3-44c5-99e2-090a08a19e05")
 			(effects
@@ -33363,7 +33389,7 @@
 				)
 			)
 		)
-		(property "Value" "TVS1800DRV"
+		(property "Value" "TVS1800DRVR"
 			(at -0.000008 1.950008 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33387,7 +33413,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tvs1800.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tvs1800"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33428,6 +33454,97 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a3648b1a-a736-4055-a101-9c76914ca8d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Height" "0.8"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6da5ef5f-bfcc-443b-8123-c6c3f7202056")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41ab5dc5-510c-4e81-8f2a-68c577857c27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TVS1800DRVR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d0d5a04-3978-4e27-8099-4a8a40515787")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "595-TVS1800DRVR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "381356dd-9c31-4f04-9bb6-4be306c7569c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Texas-Instruments/TVS1800DRVR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7af68120-b520-4679-90e7-379ea92429c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser_Part_Number" "595-TVS1800DRVR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18d1bc2a-0802-4992-b159-db9e206712b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part_Number" "595-TVS1800DRVR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36f96f83-d76c-495f-85f7-00e583dc4afb")
 			(effects
 				(font
 					(size 1 1)
@@ -35444,7 +35561,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "TI"
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

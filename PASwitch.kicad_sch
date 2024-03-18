@@ -3446,7 +3446,7 @@
 				)
 			)
 		)
-		(property "Value" "CAEL-CG2409M2"
+		(property "Value" "CG2409M2-C4"
 			(at 215.9 85.09 0)
 			(effects
 				(font
@@ -3491,6 +3491,15 @@
 			)
 		)
 		(property "Manufacturer" "CEL"
+			(at 215.9 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/CEL/CG2409M2-C4"
 			(at 215.9 93.98 0)
 			(effects
 				(font

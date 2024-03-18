@@ -767,7 +767,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS3813-Q1_Watchdog"
+		(property "Value" "TPS3813K33QDBVRQ1"
 			(at 147.955 87.8641 0)
 			(effects
 				(font
@@ -802,7 +802,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "TPS3813K33-Q1"
+		(property "MPN" "TPS3813K33QDBVRQ1"
 			(at 149.86 95.25 0)
 			(effects
 				(font
@@ -812,6 +812,15 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
+			(at 149.86 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Texas-Instruments/TPS3813K33QDBVRQ1"
 			(at 149.86 95.25 0)
 			(effects
 				(font

@@ -5401,7 +5401,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TVS1800DRV"
+		(property "Value" "TVS1800DRVR"
 			(at 84.5566 86.233 0)
 			(effects
 				(font
@@ -5419,7 +5419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tvs1800.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tvs1800"
 			(at 78.74 85.09 0)
 			(effects
 				(font
@@ -5447,6 +5447,69 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.8"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TVS1800DRVR"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-TVS1800DRVR"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Texas-Instruments/TVS1800DRVR"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_Part_Number" "595-TVS1800DRVR"
+			(at 81.28 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part_Number" "595-TVS1800DRVR"
 			(at 81.28 85.09 0)
 			(effects
 				(font
