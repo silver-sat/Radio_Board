@@ -6221,7 +6221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Epson-Timing/TG2016SMN-48.0000M-MCGNNM0"
+		(property "Mouser Price/Stock" "https://octopart.com/search?q=tg2016smn%2048.0000m-mcgnnm0"
 			(at 62.23 69.85 0)
 			(effects
 				(font
@@ -6231,6 +6231,15 @@
 			)
 		)
 		(property "Part_Number" ""
+			(at 62.23 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "3.3"
 			(at 62.23 69.85 0)
 			(effects
 				(font

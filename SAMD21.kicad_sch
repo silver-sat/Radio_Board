@@ -6944,7 +6944,7 @@
 				)
 			)
 		)
-		(property "Value" "77315-801-02LF"
+		(property "Value" "77311-118-02LF"
 			(at 144.78 222.25 0)
 			(effects
 				(font
@@ -6961,7 +6961,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_bergstik.pdf"
 			(at 149.86 218.44 0)
 			(effects
 				(font
@@ -6988,7 +6988,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "77315-801-02LF"
+		(property "MPN" "77311-118-02LF"
+			(at 149.86 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Amphenol-FCI/77311-118-02LF"
 			(at 149.86 218.44 0)
 			(effects
 				(font
