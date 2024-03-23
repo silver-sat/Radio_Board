@@ -9929,7 +9929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "${KIPRJMOD}/Datasheets/hmtsw-2854725.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/527/esq_th-2854057.pdf"
 			(at 63.5 196.85 0)
 			(effects
 				(font
@@ -9965,7 +9965,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "HMTSW-126-22-G-D-440 "
+		(property "MPN" "ESQ-126-37-G-D"
 			(at 63.5 196.85 0)
 			(effects
 				(font
@@ -9975,6 +9975,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ESQ-126-37-G-D"
+			(at 63.5 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Samtec/ESQ-126-37-G-D"
 			(at 63.5 196.85 0)
 			(effects
 				(font
@@ -10793,7 +10802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "${KIPRJMOD}/Datasheets/hmtsw-2854725.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/527/esq_th-2854057.pdf"
 			(at 63.5 123.19 0)
 			(effects
 				(font
@@ -10829,7 +10838,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "HMTSW-126-22-G-D-440 "
+		(property "MPN" "ESQ-126-37-G-D"
 			(at 63.5 123.19 0)
 			(effects
 				(font
@@ -10839,6 +10848,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "ESQ-126-37-G-D"
+			(at 63.5 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Samtec/ESQ-126-37-G-D"
 			(at 63.5 123.19 0)
 			(effects
 				(font
