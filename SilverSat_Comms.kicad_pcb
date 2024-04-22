@@ -32681,7 +32681,7 @@
 			)
 		)
 		(property "MPN" "105017-0001"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8a6cb1cd-7761-45d9-972a-6879f1b11c0d")
@@ -32693,7 +32693,7 @@
 			)
 		)
 		(property "Manufacturer" "Molex"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec67ee14-68a9-4cd6-9910-15facca1009e")
@@ -32705,7 +32705,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "105017-0001"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f4eea561-44ef-44f5-88b7-6684cbb4dcca")
@@ -32717,7 +32717,7 @@
 			)
 		)
 		(property "Part_Number" "105017-0001"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1437e1ed-0a0a-4d0f-bb5d-ee0588153fcf")
@@ -33101,6 +33101,17 @@
 			(uuid "146bb44d-4b80-437a-9127-3bc51ab2aa09")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Molex-105017-0001.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Molex_47346-0001.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -55271,6 +55282,18 @@
 				(thickness 0.15)
 			)
 			(justify left)
+		)
+	)
+	(gr_text "~{RESET}"
+		(at 120.777 100.838 0)
+		(layer "F.SilkS")
+		(uuid "315da1d9-0e9a-4ddb-a19e-ad3b01313e94")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.127)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "Radio Board"
