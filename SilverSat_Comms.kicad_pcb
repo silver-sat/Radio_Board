@@ -17365,7 +17365,7 @@
 			)
 		)
 		(property "MPN" "504050-0691"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce6555e4-f9bb-4952-b2e4-40d245d4ef07")
@@ -17377,7 +17377,7 @@
 			)
 		)
 		(property "Manufacturer" "Molex"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "582b2b14-b2cb-453c-a249-c49db9d52f1b")
@@ -17724,9 +17724,9 @@
 			(pintype "passive")
 			(uuid "7faf11f4-d836-4da7-be5a-a605c31fe102")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/5040500691.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 3.75 -5.3 0)
 			)
 			(scale
 				(xyz 1 1 1)
