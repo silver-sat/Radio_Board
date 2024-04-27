@@ -6110,7 +6110,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ATSAMD21G18A-A"
+		(property "MPN" "ATSAMD21G18A-AF"
 			(at 205.74 146.05 0)
 			(effects
 				(font
