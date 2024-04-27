@@ -12733,7 +12733,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESQ-126-69-G-D"
+		(property "Value" "ESQ-126-69-G-D (MASTER BOM PARITY ERROR)"
 			(at 38.1 246.3799 90)
 			(effects
 				(font
@@ -12769,7 +12769,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ESQ-126-69-G-D"
+		(property "MPN" "ESQ-126-69-G-D (MASTER BOM PARITY ERROR)"
 			(at 71.12 246.38 0)
 			(effects
 				(font
@@ -13776,7 +13776,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESQ-126-69-G-D"
+		(property "Value" "ESQ-126-69-G-D (MASTER BOM PARITY ERROR)"
 			(at 38.1 261.6199 90)
 			(effects
 				(font
@@ -13812,7 +13812,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ESQ-126-69-G-D"
+		(property "MPN" "ESQ-126-69-G-D (MASTER BOM PARITY ERROR)"
 			(at 71.12 261.62 0)
 			(effects
 				(font
