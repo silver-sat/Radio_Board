@@ -388,7 +388,7 @@
 			(uuid "8a1bb82c-a176-4ab1-b9b8-d4757b68a490")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -457,7 +457,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/d7aeda38-158a-4b77-979a-ff1a5c21dcb5")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
@@ -940,7 +940,7 @@
 			(uuid "1ee3e3a7-93ad-4cc2-90ce-fb7592d0b65b")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -2646,7 +2646,7 @@
 			(uuid "d6438918-d910-455b-a226-a352df892cd4")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -3130,7 +3130,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/5d35e471-4500-43ab-9d7f-e83f7e3383a3")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
@@ -3445,7 +3445,7 @@
 				(xy 0.892218 -0.81656) (xy 0.918146 -0.812656) (xy 0.936879 -0.80399) (xy 0.94829 -0.794496) (xy 0.968954 -0.766461)
 				(xy 0.977858 -0.735355) (xy 0.975543 -0.703869) (xy 0.96255 -0.674696) (xy 0.93942 -0.650525) (xy 0.916792 -0.63773)
 				(xy 0.893918 -0.630097) (xy 0.874641 -0.629741) (xy 0.852869 -0.637) (xy 0.842608 -0.641858) (xy 0.813842 -0.662903)
-				(xy 0.79616 -0.691572) (xy 0.790213 -0.726798) (xy 0.790226 -0.72817) (xy 0.796582 -0.762849) (xy 0.813524 -0.789994)
+				(xy 0.79616 -0.691572) (xy 0.790213 -0.726798) (xy 0.790226 -0.72817) (xy 0.796582 -0.765849) (xy 0.813524 -0.789994)
 				(xy 0.83958 -0.808331) (xy 0.873281 -0.816587)
 			)
 			(stroke
@@ -3493,7 +3493,7 @@
 				(xy 3.526456 -0.789588) (xy 3.523599 -0.781391) (xy 3.51625 -0.761276) (xy 3.504706 -0.730035) (xy 3.489262 -0.688459)
 				(xy 3.470216 -0.637342) (xy 3.447863 -0.577475) (xy 3.4225 -0.509651) (xy 3.394423 -0.434662) (xy 3.363928 -0.3533)
 				(xy 3.331311 -0.266358) (xy 3.296869 -0.174628) (xy 3.260898 -0.078903) (xy 3.231934 -0.00188) (xy 2.941386 0.770546)
-				(xy 2.8725 0.770646) (xy 2.840672 0.770397) (xy 2.819872 0.769267) (xy 2.807554 0.766846) (xy 2.80117 0.762728)
+				(xy 2.8725 0.770646) (xy 2.840672 0.770397) (xy 2.819872 0.769267) (xy 2.807554 0.766846) (xy 2.80117 0.765728)
 				(xy 2.798962 0.758862) (xy 2.793305 0.744155) (xy 2.783468 0.718289) (xy 2.769806 0.682209) (xy 2.752675 0.636862)
 				(xy 2.732429 0.583192) (xy 2.709425 0.522147) (xy 2.684017 0.454673) (xy 2.65656 0.381715) (xy 2.62741 0.304219)
 				(xy 2.596922 0.223132) (xy 2.565451 0.139399) (xy 2.533353 0.053967) (xy 2.500982 -0.032218) (xy 2.468695 -0.118211)
@@ -3694,7 +3694,7 @@
 			(uuid "a36cb03f-511a-4a5d-8edb-39daaa66b624")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -3763,7 +3763,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/18b130f7-989d-41d7-858a-6eb8e0f67e4e")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
 			(end 0.107836 0.36)
@@ -4475,7 +4475,7 @@
 			(uuid "ef8dadad-cf33-4177-bccd-61547533cc25")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -5028,7 +5028,7 @@
 			(uuid "12d593c4-7930-4dfd-9614-74672772a5df")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -5786,7 +5786,7 @@
 			(uuid "deb6cdb0-1b5d-4bcc-b47b-a8ac94405518")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -6404,7 +6404,7 @@
 			(uuid "762a4ca6-aefd-48fc-b167-e1c552d379f8")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -7865,7 +7865,7 @@
 			(uuid "b1c113a5-1565-4447-ac8d-8a4b32d14acf")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -8587,7 +8587,7 @@
 			(uuid "6a84d4fc-3358-401d-ad62-ff2f1f03b156")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -8875,7 +8875,7 @@
 			(uuid "56e79b7b-7c03-4244-9976-4a80ebcca562")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -9904,7 +9904,7 @@
 		(path "/9aff7c86-c2d8-4bed-97ad-6fd6dc3fccb6/d2131a60-83e2-4023-bdf4-d5a8be15cd6b")
 		(sheetname "PAPowerSwitch")
 		(sheetfile "PAPowerSwitch.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -12198,7 +12198,7 @@
 			(uuid "4948a70e-a5ea-4aa5-80d2-600aeb8547df")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -12267,7 +12267,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/7d3c5f71-5fb8-4d99-b909-7ad0ec52881e")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
 			(end 0.107836 0.36)
@@ -15033,7 +15033,7 @@
 			(uuid "256e423b-4ae5-4764-b1b8-246ca7289945")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -16021,7 +16021,7 @@
 			(uuid "1be0f9a8-5894-4d28-806d-dfa33a3bb154")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -16893,7 +16893,7 @@
 			(uuid "a43c51b6-f302-4e75-9fbb-0c95a1de00a6")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -19312,7 +19312,7 @@
 			(uuid "f0d42af4-9283-4baa-aab6-3c14cbbd5a9b")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -19381,7 +19381,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/396861fd-8e78-44ea-a4d2-98fd174ebecc")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
 			(end 0.107836 0.36)
@@ -20705,7 +20705,7 @@
 				)
 			)
 		)
-		(property "MPN" "TPS25940LRVCR"
+		(property "MPN" "TPS25940LQRVCRQ1"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20790,6 +20790,8 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-0000623530b9/11b20fac-ae4f-4780-898b-e8abe960c388")
+		(sheetname "eFuse5V")
+		(sheetfile "eFuse5V.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.61 -2.11)
@@ -21309,7 +21311,7 @@
 			(uuid "44d663cf-044f-4533-97f3-1c7035d1a0ce")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -23668,7 +23670,7 @@
 			(uuid "730c29c8-3dad-4fb7-b7d1-c027e64149c4")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -24203,7 +24205,7 @@
 			(uuid "67f067eb-2363-4831-b29e-2edb5bba1b8f")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -24272,7 +24274,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/070ea647-494c-45f0-bc30-f149e20ac170")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
 			(end 0.107836 0.36)
@@ -25959,7 +25961,7 @@
 				)
 			)
 		)
-		(property "Value" "MS353-10C_Masach_Shield"
+		(property "Value" "MS353-10C-NS_Masach_Shield"
 			(at 17.839995 -9.200007 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26008,7 +26010,7 @@
 				)
 			)
 		)
-		(property "MPN" "MS355-10F"
+		(property "MPN" "MS355-10F-NS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26032,7 +26034,22 @@
 				)
 			)
 		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Masach/MS355-10F-NS?qs=A6eO%252BMLsxmTJlue2LEU0%2FA%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d36f106c-a97d-4a82-a25e-9078985ce0af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000062351ee6/587d4ad7-8993-44f5-8e51-4461b264e6ef")
+		(sheetname "PASwitch")
+		(sheetfile "PASwitch.kicad_sch")
 		(attr smd)
 		(pad "1" smd roundrect
 			(at 0 -9.35 90)
@@ -26801,7 +26818,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/898082ed-bdb4-41d3-89f3-db33ba54ea76")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 -0.36)
 			(end 0.107836 -0.36)
@@ -27080,7 +27097,7 @@
 			(uuid "5d594576-df34-4a48-9349-e6b9a88a2a94")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -27368,7 +27385,7 @@
 			(uuid "d61e5f4c-1dcd-49ea-9d19-e7f6483871dd")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.15)
 				)
 			)
@@ -28033,7 +28050,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*")
 		(path "/13414e89-f49b-4ab1-8e35-a59f0943e3c3")
+		(sheetname "Root")
+		(sheetfile "SilverSat_Comms.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.1 -4.1)
@@ -29118,7 +29138,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/1d2faf0e-ad16-49b3-91f4-fcd70560c944")
 		(sheetname "AX5043")
 		(sheetfile "AX5043.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.107836 0.36)
 			(end 0.107836 0.36)
@@ -30893,7 +30913,7 @@
 			(uuid "0daa10e6-d3c6-4627-94b3-b44593f9c9c2")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -31199,7 +31219,7 @@
 			(uuid "0f26399e-d4e0-4a7f-8777-8e57abe65ed3")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -31834,7 +31854,7 @@
 			(uuid "831dca8a-6c3a-4897-a145-2c239a7068ad")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -34176,7 +34196,7 @@
 			(uuid "d330fa92-b5b9-467e-87f6-4b402eacdbbb")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -34217,7 +34237,7 @@
 				)
 			)
 		)
-		(property "Description" "48 MHz Automotive Rated TCXO"
+		(property "Description" "48 MHz TCXO"
 			(at 121.956179 136.142971 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34240,7 +34260,7 @@
 				)
 			)
 		)
-		(property "MPN" "TG2016SMN 48.0000M-MCGNNM0"
+		(property "MPN" "TG2016SMN 48.0000M-MCGNNM3"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34288,7 +34308,7 @@
 				)
 			)
 		)
-		(property "Mouser Price/Stock" "https://octopart.com/search?q=tg2016smn%2048.0000m-mcgnnm0"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Epson-Timing/TG2016SMN-48.0000M-MCGNNM3?qs=%252B6g0mu59x7Km8WfaT0D2Ow%3D%3D"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34845,7 +34865,7 @@
 			(uuid "4e3488bd-6687-4f6a-b077-ecf37e100f15")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -35854,7 +35874,7 @@
 		)
 		(model "C:/Users/tom/Documents/GitHub/kicad-packages3D/Package_SON.3dshapes/WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm.step"
 			(offset
-				(xyz 0.9525 -0.762 0)
+				(xyz 0.9525 -0.765 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -36217,7 +36237,7 @@
 			(uuid "806916fd-cfd4-4d41-8fa1-750a8bda7ffc")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -36452,7 +36472,7 @@
 			(uuid "f1b05e3f-26c1-456a-be23-c28a7be69954")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -37339,7 +37359,7 @@
 			(uuid "e884b623-4492-449c-8fc8-bb6621d90387")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -37908,7 +37928,7 @@
 			(uuid "a2d549c4-c26a-4f15-a0b6-4965a422e49a")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -38719,7 +38739,7 @@
 			(uuid "d4b7cd10-605d-4ae1-9ceb-179786a975b7")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -38788,7 +38808,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/280a4e44-6aff-4c55-aa7b-ba0e0795f85a")
 		(sheetname "Attenuator")
 		(sheetfile "pi_net.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.153641 -0.38)
@@ -38942,7 +38962,7 @@
 			(uuid "7da7aa97-8a03-45ea-980b-b73175ec666f")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -39011,7 +39031,7 @@
 		(path "/00000000-0000-0000-0000-000062351e35/7a01facf-7162-41f8-8d07-7bf9efd8bda4/d48539ec-4994-432d-80c4-8f72f047237a")
 		(sheetname "Attenuator")
 		(sheetfile "pi_net.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.153641 -0.38)
@@ -41374,7 +41394,7 @@
 			(uuid "f93e2345-f84d-417e-ae43-3d6df05c5f09")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -42391,7 +42411,7 @@
 			(uuid "f239149a-057d-43e1-aa77-9416ee5bbd2a")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -43698,7 +43718,7 @@
 				)
 			)
 		)
-		(property "Value" "MS353-10C_Masach_Shield"
+		(property "Value" "MS353-10C-NS_Masach_Shield"
 			(at 17.464989 -9.200007 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43747,7 +43767,7 @@
 				)
 			)
 		)
-		(property "MPN" "MS355-10F"
+		(property "MPN" "MS355-10F-NS"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -43771,7 +43791,22 @@
 				)
 			)
 		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Masach/MS355-10F-NS?qs=A6eO%252BMLsxmTJlue2LEU0%2FA%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "712ad113-bdce-47e1-b4a3-d32df87bae6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000062351e35/71bfb4f9-8499-464d-9619-3d7e34e36768")
+		(sheetname "AX5043")
+		(sheetfile "AX5043.kicad_sch")
 		(attr smd)
 		(pad "1" smd roundrect
 			(at 0 -9.35 90)
@@ -45817,7 +45852,7 @@
 				)
 			)
 		)
-		(property "MPN" "ATSAMD21G18A-A"
+		(property "MPN" "ATSAMD21G18A-AF"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -46855,7 +46890,7 @@
 			(uuid "829e4219-5b7c-4448-800f-8aecfd42175a")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -47161,7 +47196,7 @@
 			(uuid "ed4e2304-5bb1-4904-b38c-f6fdf79ff60f")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -47449,7 +47484,7 @@
 			(uuid "2233c957-d3f1-4f5d-9024-f81001751f7a")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -47972,7 +48007,7 @@
 			(uuid "244d9c13-da4e-4ebc-972b-8ea94d54c6a9")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 					(bold yes)
 				)
@@ -50356,7 +50391,7 @@
 			(uuid "279d72f7-17c6-404b-bbba-1ce811d0d35f")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -50662,7 +50697,7 @@
 			(uuid "5592db04-626c-4336-a3c4-8823439c8640")
 			(effects
 				(font
-					(size 0.762 0.762)
+					(size 0.765 0.765)
 					(thickness 0.127)
 				)
 			)
@@ -58262,7 +58297,7 @@
 		(uuid "9a77eb7e-6841-4a30-b1b6-bf3fa8890f07")
 	)
 	(segment
-		(start 150.762871 72.173229)
+		(start 150.765871 72.173229)
 		(end 151.362471 71.573629)
 		(width 0.2032)
 		(layer "F.Cu")
@@ -58895,7 +58930,7 @@
 	)
 	(segment
 		(start 150.113771 72.173229)
-		(end 150.762871 72.173229)
+		(end 150.765871 72.173229)
 		(width 0.2032)
 		(layer "F.Cu")
 		(net 2)
