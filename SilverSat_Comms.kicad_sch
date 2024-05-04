@@ -7994,17 +7994,6 @@
 		)
 		(uuid "b87e64d6-3478-4b58-8c69-67293ff96e7f")
 	)
-	(text "Placeholder for silkscreen labelling"
-		(exclude_from_sim no)
-		(at 262.89 262.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b8bc7aa2-fc64-4881-9c80-30d404e6b26e")
-	)
 	(text "Serial port net names are the same as used by Avionics."
 		(exclude_from_sim no)
 		(at 46.99 87.63 0)
