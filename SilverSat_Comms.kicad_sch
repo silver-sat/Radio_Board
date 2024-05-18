@@ -9403,7 +9403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "${KIPRJMOD}/Datasheets/ESDSafe-776537.pdf"
+		(property "Datasheet" "https://spicat.kyocera-avx.com/product/mlcc/chartview/06033C103J4Z2A/DataSheet/X7R"
 			(at 67.31 59.69 0)
 			(effects
 				(font
@@ -9438,7 +9438,7 @@
 				)
 			)
 		)
-		(property "MPN" "06033C103J4Z2A"
+		(property "MPN" "KAE15AR72A103KT18"
 			(at 67.31 59.69 0)
 			(effects
 				(font
@@ -9448,6 +9448,15 @@
 			)
 		)
 		(property "DNP" ""
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAE15AR72A103KT18?qs=Jm2GQyTW%2FbgORcDeQxgZFA%3D%3D"
 			(at 67.31 59.69 0)
 			(effects
 				(font
