@@ -2783,7 +2783,7 @@
 				)
 			)
 		)
-		(property "Value" "MS353-10C_Masach_Shield"
+		(property "Value" "MS353-10C-NS_Masach_Shield"
 			(at 69.85 151.13 0)
 			(effects
 				(font
@@ -2819,7 +2819,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MS355-10F"
+		(property "MPN" "MS355-10F-NS"
 			(at 69.85 143.51 0)
 			(effects
 				(font
@@ -2836,7 +2836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Masach/MS355-10F?qs=5aG0NVq1C4wvwQ8dZh%252BY%252BQ%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Masach/MS355-10F-NS?qs=A6eO%252BMLsxmTJlue2LEU0%2FA%3D%3D"
 			(at 63.5 148.59 0)
 			(effects
 				(font
@@ -3762,7 +3762,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MS353-10C_Masach_Shield_Cover"
+		(property "Value" "MS353-10C-NS_Masach_Shield_Cover"
 			(at 82.55 151.13 0)
 			(effects
 				(font
@@ -3798,7 +3798,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MS355-10C"
+		(property "MPN" "MS355-10C-NS"
 			(at 87.0712 150.2922 0)
 			(effects
 				(font
@@ -3816,7 +3816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Masach/MS355-10C?qs=5aG0NVq1C4ySdRj4xdNN1w%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Masach/MS355-10C-NS?qs=A6eO%252BMLsxmQF2UA9lHJl0g%3D%3D"
 			(at 76.2 148.59 0)
 			(effects
 				(font
