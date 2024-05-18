@@ -2783,7 +2783,7 @@
 				)
 			)
 		)
-		(property "Value" "MS353-10C-NS_Masach_Shield"
+		(property "Value" "MS355-10F-NS_Masach_Shield"
 			(at 69.85 151.13 0)
 			(effects
 				(font
@@ -3762,7 +3762,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MS353-10C-NS_Masach_Shield_Cover"
+		(property "Value" "MS355-10C-NS_Masach_Shield_Cover"
 			(at 82.55 151.13 0)
 			(effects
 				(font
