@@ -1775,7 +1775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 128.27 101.6 0)
 			(effects
 				(font

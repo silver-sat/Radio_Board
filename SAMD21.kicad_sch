@@ -5674,7 +5674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 142.24 120.65 0)
 			(effects
 				(font
@@ -6405,7 +6405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 168.91 204.47 0)
 			(effects
 				(font
@@ -6501,7 +6501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 187.96 204.47 0)
 			(effects
 				(font
@@ -6753,7 +6753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 151.13 173.99 0)
 			(effects
 				(font
@@ -7057,7 +7057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 130.81 160.02 0)
 			(effects
 				(font
@@ -7971,7 +7971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 130.81 123.19 0)
 			(effects
 				(font
@@ -9000,7 +9000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 142.24 157.48 0)
 			(effects
 				(font
@@ -9354,7 +9354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 283.21 223.52 0)
 			(effects
 				(font

@@ -391,7 +391,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "280a4e44-6aff-4c55-aa7b-ba0e0795f85a")
 		(property "Reference" "R37"
@@ -403,7 +403,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DNI"
+		(property "Value" "130"
 			(at 61.341 61.3922 0)
 			(effects
 				(font
@@ -421,7 +421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 59.69 59.69 0)
 			(effects
 				(font
@@ -440,6 +440,42 @@
 			)
 		)
 		(property "DNP" "DNP"
+			(at 59.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-PA2F1300X"
+			(at 59.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 59.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-PA2F1300X?qs=V%252BBODeGd91KOpDuluRe04w%3D%3D"
+			(at 59.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50"
 			(at 59.69 59.69 0)
 			(effects
 				(font
@@ -547,7 +583,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "44.2"
 			(at 63.5 51.2881 90)
 			(effects
 				(font
@@ -564,7 +600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -573,7 +609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "“Thick Film Resistors - SMD 0402 0Ohm AEC-Q200” (Mouser Electronics “ERJ-H2G0R00X”. 2022. https://www.mouser.com/ProductDetail/Panasonic/ERJ-H2G0R00X?qs=eP2BKZSCXI6wQjFmf3rUSA%3D%3D. Accessed 20 June 2022)"
+		(property "Description" ""
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -591,7 +627,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-2GE0R00X"
+		(property "MPN" "ERJ-2RKF44R2X"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -618,7 +654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "ERJ-H2G0R00X"
+		(property "Manufacturer_Part_Number" "ERJ-2RKF44R2X"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -627,7 +663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "667-ERJ-H2G0R00X"
+		(property "Mouser Part Number" "667-ERJ-2RKF44R2X"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -636,7 +672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-H2G0R00X?qs=eP2BKZSCXI6wQjFmf3rUSA%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-2RKF44R2X?qs=YMBIwoNQYdXV0XSbhAsn1w%3D%3D"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -645,7 +681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser_Part_Number" "667-ERJ-H2G0R00X"
+		(property "Mouser_Part_Number" "667-ERJ-2RKF44R2X"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -654,7 +690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part_Number" "ERJ-H2G0R00X"
+		(property "Part_Number" "ERJ-2RKF44R2X"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -685,7 +721,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d48539ec-4994-432d-80c4-8f72f047237a")
 		(property "Reference" "R39"
@@ -697,7 +733,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DNI"
+		(property "Value" "130"
 			(at 68.961 61.3922 0)
 			(effects
 				(font
@@ -715,7 +751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 67.31 59.69 0)
 			(effects
 				(font
@@ -734,6 +770,42 @@
 			)
 		)
 		(property "DNP" "DNP"
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-PA2F1300X"
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-PA2F1300X?qs=V%252BBODeGd91KOpDuluRe04w%3D%3D"
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50"
 			(at 67.31 59.69 0)
 			(effects
 				(font

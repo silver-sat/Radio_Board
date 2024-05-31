@@ -3030,7 +3030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/20035/dcrcwe3.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 173.99 73.66 0)
 			(effects
 				(font
@@ -3753,7 +3753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 180.34 72.39 0)
 			(effects
 				(font
@@ -4436,7 +4436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 180.34 93.98 0)
 			(effects
 				(font
@@ -4671,7 +4671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 115.57 93.98 0)
 			(effects
 				(font
@@ -5016,7 +5016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 189.23 105.41 0)
 			(effects
 				(font
@@ -5185,7 +5185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 115.57 114.3 0)
 			(effects
 				(font
@@ -5820,7 +5820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 147.32 135.89 0)
 			(effects
 				(font
@@ -6055,7 +6055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 142.24 135.89 0)
 			(effects
 				(font
@@ -6224,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 115.57 73.66 0)
 			(effects
 				(font

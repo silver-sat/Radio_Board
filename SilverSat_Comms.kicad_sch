@@ -10606,7 +10606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 241.3 90.17 0)
 			(effects
 				(font
@@ -12030,7 +12030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 314.96 109.22 0)
 			(effects
 				(font
@@ -12549,7 +12549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 297.18 90.17 0)
 			(effects
 				(font
@@ -13195,7 +13195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 271.78 43.18 0)
 			(effects
 				(font
@@ -13562,7 +13562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 299.72 43.18 0)
 			(effects
 				(font
@@ -13677,7 +13677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 330.2 43.18 0)
 			(effects
 				(font
@@ -14453,7 +14453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERJ-H2G0R00X"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 363.22 43.18 0)
 			(effects
 				(font
@@ -14773,7 +14773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "${KIPRJMOD}/Datasheets/Panasonic_Resistors.pdf"
 			(at 57.15 59.69 0)
 			(effects
 				(font
