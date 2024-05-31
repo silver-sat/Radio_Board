@@ -50985,15 +50985,8 @@
 			)
 		)
 		(pad "" smd roundrect
-			(at 0 0 180)
-			(size 0.9 3.14)
-			(layers "F.Paste" "F.Mask")
-			(roundrect_rratio 0.25)
-			(uuid "165ec31e-83e1-489d-9d7f-d2af4ebbe1a3")
-		)
-		(pad "" smd roundrect
-			(at 0 0 180)
-			(size 3.14 0.9)
+			(at 0 0 225)
+			(size 2.159 2.1336)
 			(layers "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
 			(uuid "0578d4a6-c737-43cf-9da7-d7a5bd40f147")
@@ -56830,7 +56823,7 @@
 		)
 		(height -19.304)
 		(orientation 1)
-		(gr_text "5.0800 mm"
+		(gr_text "200.0000 mils"
 			(at 88.91 146.775 90)
 			(layer "Dwgs.User")
 			(uuid "52195a59-c6e7-4b39-8016-0271b1da9d3c")
@@ -56864,7 +56857,7 @@
 		)
 		(height -54.864)
 		(orientation 0)
-		(gr_text "90.1700 mm"
+		(gr_text "3550.0000 mils"
 			(at 150.495 30.226 0)
 			(layer "Dwgs.User")
 			(uuid "624a386b-b1a1-4a33-956c-3d47ff841502")
@@ -56898,7 +56891,7 @@
 		)
 		(height -15.113)
 		(orientation 1)
-		(gr_text "95.8850 mm"
+		(gr_text "3775.0000 mils"
 			(at 92.329 101.2825 90)
 			(layer "Dwgs.User")
 			(uuid "a94a0ef7-6ba2-4a58-b95c-913b939e57a2")
@@ -56932,7 +56925,7 @@
 		)
 		(height 7.747)
 		(orientation 0)
-		(gr_text "5.0800 mm"
+		(gr_text "200.0000 mils"
 			(at 108.385 159.625 0)
 			(layer "Dwgs.User")
 			(uuid "aedefde3-cdc6-4ea2-8a9e-215dacab6c62")
@@ -56966,7 +56959,7 @@
 		)
 		(height -17.145)
 		(orientation 0)
-		(gr_text "85.5980 mm"
+		(gr_text "3370.0000 mils"
 			(at 148.209 36.957 0)
 			(layer "Dwgs.User")
 			(uuid "dcabb378-1c1c-4b00-bbf9-db900e70195c")
