@@ -2773,7 +2773,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "587d4ad7-8993-44f5-8e51-4461b264e6ef")
 		(property "Reference" "S3"
 			(at 67.31 146.05 0)
@@ -2783,7 +2783,7 @@
 				)
 			)
 		)
-		(property "Value" "MS355-10F-NS_Masach_Shield"
+		(property "Value" "MS355-10F_Masach_Shield"
 			(at 69.85 151.13 0)
 			(effects
 				(font
@@ -2819,7 +2819,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MS355-10F-NS"
+		(property "MPN" "MS355-10F"
 			(at 69.85 143.51 0)
 			(effects
 				(font
@@ -3750,7 +3750,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "baf77d07-07eb-4a2b-89aa-eb36b072b203")
 		(property "Reference" "S4"
@@ -3762,7 +3762,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MS355-10C-NS_Masach_Shield_Cover"
+		(property "Value" "MS355-10C_Masach_Shield_Cover"
 			(at 82.55 151.13 0)
 			(effects
 				(font
@@ -3798,7 +3798,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MS355-10C-NS"
+		(property "MPN" "MS355-10C"
 			(at 87.0712 150.2922 0)
 			(effects
 				(font
