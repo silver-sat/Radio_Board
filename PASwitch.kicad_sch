@@ -2971,7 +2971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "kicad_library:Coilcraft_L_0402_1005Metric"
 			(at 129.54 88.9 0)
 			(effects
 				(font
@@ -3953,7 +3953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "kicad_library:Coilcraft_L_0402_1005Metric"
 			(at 125.73 73.66 0)
 			(effects
 				(font
@@ -4663,7 +4663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "kicad_library:Coilcraft_L_0402_1005Metric"
 			(at 67.31 88.9 0)
 			(effects
 				(font
@@ -4937,7 +4937,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "kicad_library:Coilcraft_L_0402_1005Metric"
 			(at 38.1 93.98 0)
 			(effects
 				(font
