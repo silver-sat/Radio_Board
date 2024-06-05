@@ -3,19 +3,19 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.5)"
+      "Version": "8.0.2"
     },
-    "CreationDate": "2022-08-15T13:00:56-04:00"
+    "CreationDate": "2024-06-04T21:53:01-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "SilverSat_Comms",
       "GUID": "53696c76-6572-4536-9174-5f436f6d6d73",
-      "Revision": "rev?"
+      "Revision": "1.0 Beta"
     },
     "Size": {
-      "X": 90.37,
-      "Y": 96.09
+      "X": 115.67,
+      "Y": 96.085
     },
     "LayerNumber": 4,
     "BoardThickness": 1.7699,
@@ -100,7 +100,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Purple",
+      "Color": "R80G0B80",
       "Thickness": 0.0254,
       "Material": "Liquid Ink",
       "Name": "Top Solder Mask"
@@ -148,7 +148,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Purple",
+      "Color": "R80G0B80",
       "Thickness": 0.0254,
       "Material": "Liquid Ink",
       "Name": "Bottom Solder Mask"
