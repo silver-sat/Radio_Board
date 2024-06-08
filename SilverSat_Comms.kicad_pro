@@ -545,7 +545,7 @@
       "idf": "",
       "netlist": "",
       "plot": "gerbers",
-      "pos_files": "",
+      "pos_files": "./",
       "specctra_dsn": "board3D/SilverSat_Comms.dsn",
       "step": "board3D/SilverSat_Comms.step",
       "svg": "",
